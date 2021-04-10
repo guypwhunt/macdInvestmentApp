@@ -19,14 +19,17 @@ ui <- fluidPage(
     titlePanel("MACD Analysis"),
     sidebarPanel(
         textInput("symbol", "Stock Symbol", "^FTSE"),
-        actionButton("analyseButton", "Analyse")
+        actionButton("analyseButton", "Analyse"),
+        br(),
+        br(),
+        uiOutput("symbolText"),
     ),
 
         # Show a plot of the generated distribution
         mainPanel(
             tabsetPanel(type = "tabs",
-                        tabPanel("List of Symbols", uiOutput("symbolText")),
-                        tabPanel("Graph", plotlyOutput('macdPlot')))
+                        tabPanel("MACD Analysis",br(), br(), plotlyOutput('macdPlot'))#,
+                        )
         )
     )
 
@@ -36,7 +39,7 @@ server <- function(input, output) {
         timeSeries <- getTimeSeries(input$symbol)
         timeSeries <- formatTimeSeries(timeSeries)
         macd <- calculateMacd(timeSeries)
-        output$macdPlot <- renderPlotly({ plotMacd(macd)})
+        output$macdPlot <- renderPlotly({ plotMacd(macd, input$symbol)})
     })
 
     output$symbolText <- renderUI({
