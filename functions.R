@@ -5,10 +5,10 @@ library(plotly)
 
 getTimeSeries <- function(symbol) {
   library(quantmod)
-  timeSeries <- getSymbols(symbol, src = "yahoo", from = (Sys.Date() - 180),
+  timeSeries <- getSymbols(symbol, src = "yahoo", from = (Sys.Date() - 500),
                              to = Sys.Date(),
                              auto.assign = FALSE,
-                             #periodicity = "monthly"
+                             periodicity = "weekly"
                            )
   colnames(timeSeries) <- c("Open", "High", "Low", "Close", "Volume", "Adjusted")
   return(timeSeries)
