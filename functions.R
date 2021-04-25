@@ -95,10 +95,21 @@ symbolText <- function() {
 }
 
 indexFunds <- function() {
-  fundCategory <- c("Asia Pacific Ex Japan", "Asia Pacific Ex Japan", "Asia Pacific Ex Japan", "Europe Excluding UK", "Europe Excluding UK", "Europe Excluding UK", "Europe Including UK", "Global", "Global", "Global", "Global", "Global", "Global", "Global", "Global", "Global Emerging Markets", "Global Emerging Markets", "Global Emerging Markets", "Japan", "Japan", "Japan", "Japan", "North America", "North America", "North America", "UK", "UK", "UK", "UK", "UK", "UK", "UK")
-  fundNames <- c("Fidelity Index Pacific ex Japan (Class P)", "HSBC Pacific Index (Class C)", "Vanguard Pacific ex-Japan Stock Index", "Fidelity Index Europe ex UK", "HSBC European Index (Class C)", "Vanguard FTSE Developed Europe ex-UK Equity Index", "Vanguard SRI European Stock", "Aviva Inv International Index Tracking", "Fidelity Index World", "HSBC FTSE All-World Index (Class C)", "Vanguard ESG Developed World All Cap Equity", "Vanguard FTSE Developed World ex-UK Equity Index", "Vanguard FTSE Global All Cap Index", "Vanguard Global Small-Cap Index", "Vanguard LifeStrategy 100% Equity", "Fidelity Index Emerging Markets", "Henderson Rowe FTSE RAFI", "Vanguard Emerging Markets Stock Index", "Fidelity Index Japan (Class P)", "HSBC Japan Index (Class C)", "Royal London Japan Tracker", "Vanguard Japan Stock Index", "Fidelity Index US (Class P)", "HSBC American Index (Class C)", "UBS S&P 500 Index", "ASI UK All Share Tracker (Class B)", "Aviva Inv UK Index Tracking (Class 2)", "Fidelity Index UK (Class P)", "HSBC FTSE 100 Index (Class C)", "HSBC FTSE 250 Index (Class S)", "HSBC FTSE All-Share Index (Class C)", "Royal London FTSE 350 Tracker")
-  fundSymbol <- c("0P00011UPP.L", "0P0000WN7M.L", "0P0000KM1Z.L", "0P00013O92.L", "0P0000WN7I.L", "VERE.DE", "0P0000UGLE.L", "0P0000A8XL.L", "0P0000XNUY.L", "0P00013P6I.L", "0P0000UGLG.L", "0P0000KSP7.L", "0P00018XAR.L", "0P000147M1.L", "0P0000TKZO.L", "0P00011YDA.L", "0P0000UHUM.L", "0P000147LN.L", "0P00013O93.L", "0P0000WN7K.L", "0P0000NAG3.L", "0P000147M4.L", "0P0001FIOP.L", "0P0000WN7H.L", "0P000147T9.L", "0P0000VGXY.L", "0P0000XQBH.L", "0P000125KT.L", "0P0000WN79.L", "0P000159K7.L", "0P0000WN7A.L", "0P0000NAG0.L")
+  #fundCategory <- c("Asia Pacific Ex Japan", "Asia Pacific Ex Japan", "Asia Pacific Ex Japan", "Europe Excluding UK", "Europe Excluding UK", "Europe Excluding UK", "Europe Including UK", "Global", "Global", "Global", "Global", "Global", "Global", "Global", "Global", "Global Emerging Markets", "Global Emerging Markets", "Global Emerging Markets", "Japan", "Japan", "Japan", "Japan", "North America", "North America", "North America", "UK", "UK", "UK", "UK", "UK", "UK", "UK")
+  #fundNames <- c("Fidelity Index Pacific ex Japan (Class P)", "HSBC Pacific Index (Class C)", "Vanguard Pacific ex-Japan Stock Index", "Fidelity Index Europe ex UK", "HSBC European Index (Class C)", "Vanguard FTSE Developed Europe ex-UK Equity Index", "Vanguard SRI European Stock", "Aviva Inv International Index Tracking", "Fidelity Index World", "HSBC FTSE All-World Index (Class C)", "Vanguard ESG Developed World All Cap Equity", "Vanguard FTSE Developed World ex-UK Equity Index", "Vanguard FTSE Global All Cap Index", "Vanguard Global Small-Cap Index", "Vanguard LifeStrategy 100% Equity", "Fidelity Index Emerging Markets", "Henderson Rowe FTSE RAFI", "Vanguard Emerging Markets Stock Index", "Fidelity Index Japan (Class P)", "HSBC Japan Index (Class C)", "Royal London Japan Tracker", "Vanguard Japan Stock Index", "Fidelity Index US (Class P)", "HSBC American Index (Class C)", "UBS S&P 500 Index", "ASI UK All Share Tracker (Class B)", "Aviva Inv UK Index Tracking (Class 2)", "Fidelity Index UK (Class P)", "HSBC FTSE 100 Index (Class C)", "HSBC FTSE 250 Index (Class S)", "HSBC FTSE All-Share Index (Class C)", "Royal London FTSE 350 Tracker")
+  #fundSymbol <- c("0P00011UPP.L", "0P0000WN7M.L", "0P0000KM1Z.L", "0P00013O92.L", "0P0000WN7I.L", "VERE.DE", "0P0000UGLE.L", "0P0000A8XL.L", "0P0000XNUY.L", "0P00013P6I.L", "0P0000UGLG.L", "0P0000KSP7.L", "0P00018XAR.L", "0P000147M1.L", "0P0000TKZO.L", "0P00011YDA.L", "0P0000UHUM.L", "0P000147LN.L", "0P00013O93.L", "0P0000WN7K.L", "0P0000NAG3.L", "0P000147M4.L", "0P0001FIOP.L", "0P0000WN7H.L", "0P000147T9.L", "0P0000VGXY.L", "0P0000XQBH.L", "0P000125KT.L", "0P0000WN79.L", "0P000159K7.L", "0P0000WN7A.L", "0P0000NAG0.L")
 
-  dF <- data.frame(fundCategory, fundNames, fundSymbol)
+  #dF <- data.frame(fundCategory, fundNames, fundSymbol)
+  dF <- read.csv("indexFund.csv")
+  return(dF)
+}
+
+industryEtfs <- function() {
+  dF <- read.csv("industryEtfs.csv")
+  return(dF)
+}
+
+geographicalEtfs <- function() {
+  dF <- read.csv("geographicalEtfs.csv")
   return(dF)
 }

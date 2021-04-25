@@ -24,14 +24,16 @@ ui <- fluidPage(
         actionButton("analyseButton", "Analyse"),
         br(),
         br(),
-        #uiOutput("symbolText"),
+        plotlyOutput('macdPlot')
     ),
 
         # Show a plot of the generated distribution
         mainPanel(
             tabsetPanel(type = "tabs",
                         tabPanel("Index Funds",br(), tableOutput('indexFunds')),
-                        tabPanel("MACD Analysis",br(), br(), plotlyOutput('macdPlot'))#,
+                        tabPanel("Industry ETFs",br(), tableOutput('industryEtf')),
+                        tabPanel("Geographical ETFs",br(), tableOutput('geographicalEtf'))#,
+                        #tabPanel("MACD Analysis",br(), br(), plotlyOutput('macdPlot'))#,
                         )
         )
     )
@@ -50,6 +52,11 @@ server <- function(input, output) {
     })
 
     output$indexFunds <- renderTable(indexFunds())
+
+    output$industryEtf <- renderTable(industryEtfs())
+
+    output$geographicalEtf <- renderTable(geographicalEtfs())
+
 }
 
 # Run the application

@@ -1,0 +1,660 @@
+Sector,ID,Title,Description
+Africa and Middle East,HZAR.L,HSBC ETFs plc,MSCI South Africa USD(GBP)
+Africa and Middle East,MSAU.L,Invesco Markets,Invesco MSCI Saudi Arabia UCITS ETF
+Africa and Middle East,MSAP.L,Invesco Markets Plc,Invesco MSCI Saudi Arabia UCITS ETF
+Africa and Middle East,IKSA.L,iShares III Plc,MSCI Saudi Arabia Capped UCITS ETF USD
+Africa and Middle East,IRSA.L,iShares III plc,MSCI South Africa (USD)
+Africa and Middle East,SRSA.L,iShares III plc,MSCI South Africa (USD) GBX
+Africa and Middle East,AFSU.L,Lyxor Asset Management,MSCI South Africa UCITS ETF - Acc (USD)
+Africa and Middle East,XMAF.L,Xtrackers,MSCI Africa TOP 50 Index UCITS ETF
+Asia Pacific,AASG.L,Amundi Luxembourg SA,MSCI EM Asia UCITS ETF USD GBP A
+Asia Pacific,FRCH.L,Franklin Liberty,China UCITS ETF - Acc (GBP)
+Asia Pacific,FRIN.L,Franklin Libertyshares ICAV,FTSE India UCITS ETF ACC (GBP)
+Asia Pacific,FLRK.L,Franklin Libertyshares ICAV,FTSE Korea UCITS ETF
+Asia Pacific,HKOR.L,HSBC ETFs plc,Korea Capped UCITS ETF USD (GBP)
+Asia Pacific,HMAF.L,HSBC ETFs plc,MSCI AC Far East ex-Japan
+Asia Pacific,HMCH.L,HSBC ETFs plc,MSCI China ETF (GBP)
+Asia Pacific,HMFE.L,HSBC ETFS Plc,MSCI Em Far East ETF GBP
+Asia Pacific,HIDR.L,HSBC ETFs plc,MSCI Indonesia UCITS ETF GBP
+Asia Pacific,HMYR.L,HSBC ETFs plc,MSCI Malaysia UCITS ETF GBP
+Asia Pacific,HMXJ.L,HSBC ETFs Plc,MSCI Pacific Ex Japan
+Asia Pacific,HTWN.L,HSBC ETFS plc,MSCI TAIWAN UCITS ETF GBP
+Asia Pacific,HSXJ.L,HSBC Securities Services (Ireland) Limited,Asia Pacific Ex Jpn Stable Eq UCITS ETF GBP
+Asia Pacific,HMCA.L,HSBC Securities Services (Ireland) Limited,HSBC MSCI China A Inclusion UCITS ETF
+Asia Pacific,CHIP.L,ICBC CREDIT SUISSE UCITS ETF SICAV,WisdomTree S&P China 500 B USD(GBP)
+Asia Pacific,B1263H0.L,iShares,Dow Jones China Offshore 50 UCITS ETF
+Asia Pacific,ISFE.L,iShares II plc,MSCI AC Far East ex-Japan SmallCap
+Asia Pacific,IGAA.L,iShares III plc,Emerging Asia Local Govt Bond UCITS ETF USD - Acc
+Asia Pacific,SAUS.L,iShares III plc,MSCI Australia (USD) GBX
+Asia Pacific,IPXJ.L,iShares III plc,MSCI Pacific ex-Japan (USD)
+Asia Pacific,SPXJ.L,iShares III plc,MSCI Pacific ex-Japan GBP
+Asia Pacific,NDIA.L,iShares IV plc,iShares MSCI India UCITS ETF - USD (Acc)
+Asia Pacific,IASH.L,iShares IV plc,MSCI China A UCITS ETF
+Asia Pacific,CNYA.L,iShares IV plc,MSCI China A UCITS ETF USD
+Asia Pacific,IIND.L,iShares IV plc,MSCI India UCITS ETF USD Acc (GBP)
+Asia Pacific,IAPD.L,iShares plc,DJ Asia/Pacific Select Dividend 30
+Asia Pacific,FXC.L,iShares plc,Large Cap UCITS ETF
+Asia Pacific,IFFF.L,iShares plc,MSCI AC Far East ex-Japan
+Asia Pacific,IDFF.L,iShares plc,MSCI AC Far East ex-Japan (USD)
+Asia Pacific,CSKR.L,iShares plc,MSCI Korea
+Asia Pacific,IDKO.L,iShares plc,MSCI Korea (USD) UCITS ETF (Dist)
+Asia Pacific,IKOR.L,iShares plc,MSCI Korea UCITS ETF (Dist)
+Asia Pacific,ITWN.L,iShares plc,MSCI Taiwan
+Asia Pacific,IDTW.L,iShares plc,MSCI Taiwan (USD)
+Asia Pacific,CPJ1.L,iShares VII plc,Core MSCI Pacific ex-Japan UCITS ETF
+Asia Pacific,CEA1.L,iShares VII plc,MSCI EM Asia UCITS ETF USD (Acc)
+Asia Pacific,KWEB.L,KraneShares ICAV,CSI China Internet UCITS ETF
+Asia Pacific,KURE.L,KraneShares ICAV,MSCI All China Health Care Index UCITS ETF US
+Asia Pacific,KBA.L,KraneShares ICAV,MSCI China A Share UCITS ETF
+Asia Pacific,LGAG.L,Legal & General,Asia Pacific Ex Jpn Eq ETF USD(GBP)
+Asia Pacific,CASE.L,Legal & General UCITS ETF,MSCI China A
+Asia Pacific,ASIL.L,Lyxor,China Enterprise (HSCEI) UCITS ETF Acc
+Asia Pacific,AEJL.L,Lyxor Asset Management Lux,Lyxor MSCI Asia Pacific Ex Japan UCITS ETF - Acc
+Asia Pacific,BJF2252.L,Lyxor Asset Management Luxembourg,Hong Kong (HSI) UCITS ETF - Dist
+Asia Pacific,B1GK6W4.L,Lyxor International Asset Management,MSCI India
+Asia Pacific,INRU.L,Lyxor International Asset Management,UCITS MSCI India (Part USD) - Class C
+Asia Pacific,M9SV.L,Market Access,Stoxx China A Minimum Variance Index UCITS ETF
+Asia Pacific,INRL.L,Multi Units France,Lyxor MSCI India B
+Asia Pacific,PADV.L,SSGA SPDR ETFs Europe I plc,S&P Pan Asia Dividend Aristocrats UCITS ETF
+Asia Pacific,UC48.L,UBS (Irl) Fund Solutions plc,MSCI AC Asia Ex Japan SF UCITS ETF (USD) A-acc
+Asia Pacific,UB20.L,UBS ETF SICAV,MSCI Pacific (ex Japan)
+Asia Pacific,UB45.L,UBS ETF SICAV,MSCI Pacific Socially Responsible UCITS ETF A-dis
+Asia Pacific,VAPX.L,Vanguard Funds plc,FTSE Developed Asia Pacific ex-Japan
+Asia Pacific,XCHA.L,Xtrackers,CSI300 UCITS ETF Class 1C
+Asia Pacific,XX25.L,xtrackers,FTSE China 50 UCITS ETF (DR)
+Asia Pacific,XFVT.L,Xtrackers,FTSE Vietnam UCITS ETF
+Asia Pacific,XVTD.L,Xtrackers,FTSE Vietnam UCITS ETF
+Asia Pacific,RQFI.L,Xtrackers,Harvest CSI300 Index UCITS ETF (DR)
+Asia Pacific,AH50.L,Xtrackers,Harvest FTSE China A-H 50 Index UCITS ETF (DR)
+Asia Pacific,XAXJ.L,Xtrackers,MSCI AC Asia ex Japan Index UCITS ETF
+Asia Pacific,XCX6.L,Xtrackers,MSCI China Index UCITS ETF (DR)
+Asia Pacific,XMAS.L,Xtrackers,MSCI EM Asia Index UCITS ETF
+Asia Pacific,XCX5.L,XTrackers,MSCI India Index UCITS ETF
+Asia Pacific,XMID.L,Xtrackers,MSCI Indonesia Index UCITS ETF
+Asia Pacific,XKS2.L,Xtrackers,MSCI Korea Index UCITS ETF (DR)
+Asia Pacific,XCS3.L,Xtrackers,MSCI Malaysia Index UCITS ETF (DR)
+Asia Pacific,XPXJ.L,Xtrackers,MSCI Pacific ex Japan Index UCITS ETF (DR)
+Asia Pacific,XPHI.L,Xtrackers,MSCI Philippines IM Index UCITS ETF (DR)
+Asia Pacific,XPHG.L,Xtrackers,MSCI Philippines IM Index UCITS ETF (DR)
+Asia Pacific,XMTW.L,Xtrackers,MSCI Taiwan Index UCITS ETF (DR)
+Asia Pacific,XCS4.L,Xtrackers,MSCI Thailand Index UCITS ETF (DR)
+Asia Pacific,XCX4.L,Xtrackers,MSCI Thailand Index UCITS ETF (DR)
+Asia Pacific,XNIF.L,Xtrackers,NIFTY 50 UCITS ETF
+Asia Pacific,XAUS.L,Xtrackers,S&P/ASX 200 UCITS ETF (DR)
+Asia Pacific,XCX3.L,Xtrackers,xtrackers MSCI Malaysia Index UCITS ETF (DR)
+Developed Markets,DPYA.L,iShares II plc,Developed Mkts Property Yield UCITS ETF USD (Acc)
+Developed Markets,IDWP.L,iShares II plc,FTSE EPRA/NAREIT Developed Markets Prop Yield Fund
+Developed Markets,VHVG.L,Vanguard Funds plc,FTSE Developed World UCITS ETF
+Emerging Markets,BF2JV40.L,Amundi Luxembourg SA,MSCI Emerging Mkts UCIT ETF Eur
+Emerging Markets,XGLF.L,db X-trackers,MSCI GCC Select Index UCITS ETF
+Emerging Markets,FEMD.L,Fidelity,Emerging Markets Quality Income UCITS ETF (GBP)
+Emerging Markets,FEMQ.L,Fidelity UCITS ICAV,Emerging Markets Quality Income GBP
+Emerging Markets,FEMR.L,FIL Fund Management (Ireland) Limited,Sustainable Research Enhanced Emerging Markets Eq
+Emerging Markets,FEM.L,First Trust Global Funds plc,Emerging Markets AlphaDEX UCITS
+Emerging Markets,FLXE.L,Franklin LibertyShares,LibertyQ Emerging Markets Equity UCITS ETF
+Emerging Markets,HMEF.L,HSBC ETFs plc,MSCI Emerging Markets UCITS ETF GBP
+Emerging Markets,HSEF.L,HSBC Securities Services (Ireland) Limited,Emerging Market Sustainable Equity UCITS ETF
+Emerging Markets,HDEM.L,Invesco,FTSE Emerging Markets High Div Low Vol UCITS ETF
+Emerging Markets,MXFP.L,Invesco Markets,MSCI Emerging Markets UCITS ETF
+Emerging Markets,MXFS.L,Invesco Markets,MSCI Emerging Markets UCITS ETF
+Emerging Markets,PSRM.L,Invesco Markets III Plc,FTSE Rafi Emerging Markets Fund
+Emerging Markets,EFEP.L,Invesco Markets Plc,Goldman Sachs Equity Factor Ind Em Mkts UCITS GBP
+Emerging Markets,EFIM.L,Invesco Markets Plc,Goldman Sachs Equity Factor Ind Em Mkts UCITS(USD)
+Emerging Markets,DBRC.L,iShares II plc,FTSE BRIC 50
+Emerging Markets,BRIC.L,iShares II plc,FTSE BRIC 50
+Emerging Markets,ISDE.L,iShares II plc,MSCI Emerging Markets Islamic (USD)
+Emerging Markets,SEMA.L,iShares III plc,MSCI Emerging Markets (Acc) USD
+Emerging Markets,IEMS.L,iShares III plc,MSCI Emerging Markets SmallCap (USD)
+Emerging Markets,EMVL.L,iShares IV plc,iShares Edge MSCI EM Value Factor UCITS ETF USD
+Emerging Markets,EDG2.L,Ishares Iv Plc,MSCI EM ESG Enhcd UCITS ETF GBP
+Emerging Markets,GEDM.L,iShares IV plc,MSCI EM IMI ESG Screened UCITS ETF Dis (GBP)
+Emerging Markets,SEGM.L,iShares IV Plc,MSCI EM IMI ESG Screened UCITS ETF GBP
+Emerging Markets,SAEM.L,iShares IV plc,MSCI EM IMI ESG Screened UCITS ETF USD Acc
+Emerging Markets,SEDM.L,iShares IV plc,MSCI EM IMI ESG Screened UCITS ETF USD Dis
+Emerging Markets,SAUM.L,iShares IV Plc,MSCI EMU ESG SCREENED UCITS ETF GBP A
+Emerging Markets,SUES.L,iShares IV plc,Sustainable MSCI Em Mkt SRI UCT USD
+Emerging Markets,EIMI.L,iShares plc,Core MSCI EM IMI UCITS ETF USD (Acc)
+Emerging Markets,IDEM.L,iShares plc,MSCI Emerging Markets (USD) UCITS ETD (Dist)
+Emerging Markets,CEMG.L,iShares plc,MSCI Emerging Markets Consumer Growth
+Emerging Markets,EMIM.L,iShares plc,MSCI Emerging Markets IMI
+Emerging Markets,IEEM.L,iShares plc,MSCI Emerging Markets UCITS ETF (Dist)
+Emerging Markets,SEDY.L,iShares V plc,Dow Jones Emerging Markets Select Div GBP
+Emerging Markets,EMV.L,iShares VI plc,Edge MSCI EM Minimum Volatility GBP
+Emerging Markets,EMMV.L,iShares VI plc,Edge MSCI EM Minimum Volatility UCITS ETF USD
+Emerging Markets,JMRE.L,JPMorgan Funds ETFs (Ireland),Global Emg Markets Research Ehd Idx Eq UCITS ETF
+Emerging Markets,B1YMRT6.L,Lyxor Asset Management,Multi Units France MSCI Emerging Markets UCITS ETF
+Emerging Markets,LEML.L,Lyxor International Asset Management,Lyxor UCITS ETF MSCI Emerging Markets Index
+Emerging Markets,LMMV.L,Ossiam ETF,Emerging Markets Minimum Variance
+Emerging Markets,EMRD.L,SSGA SPDR ETFs Europe I plc,MSCI Emerging Markets
+Emerging Markets,EMDV.L,SSGA SPDR ETFs Europe I plc,S&P Emerging Markets Dividend GBP
+Emerging Markets,EMAS.L,SSGA SPDR ETFs Europe I plc,SPDR MSCI Emerging Markets Asia
+Emerging Markets,UB32.L,UBS ETF SICAV,MSCI Emerging Markets
+Emerging Markets,UC79.L,UBS ETF SICAV,MSCI Emerging Markets
+Emerging Markets,VFEG.L,Vanguard Funds plc,FTSE Emerging Markets UCITS ETF (GBP)
+Emerging Markets,VFEM.L,Vanguard Funds plc,FTSE Emerging Markets UCITS ETF USD(GBP)
+Emerging Markets,3EML.L,WisdomTree,Emerging Markets 3x Daily Leveraged (USD)
+Emerging Markets,3EMS.L,WisdomTree,Emerging Markets 3x Daily Short (USD)
+Emerging Markets,DEM.L,WisdomTree Issuer plc,Emerging Markets Equity Income UCITS ETF
+Emerging Markets,DGSE.L,WisdomTree Issuer plc,Emerging Markets SmallCap Dividend UCITS ETF
+Emerging Markets,XMXD.L,Xtrackers,MSCI EM EMEA ESG SWAP UCITS ETF
+Emerging Markets,XMMD.L,Xtrackers,MSCI Emerging Markets Index UCITS ETF
+Emerging Markets,XMEM.L,Xtrackers,MSCI Emerging Markets Index UCITS ETF
+Emerging Markets,XBAK.L,Xtrackers,MSCI Pakistan IM Index UCITS ETF
+Emerging Markets,XSFR.L,Xtrackers,S&P Select Frontier UCITS ETF
+Emerging Markets,XMME.L,XTrackers (IE) Plc,MSCI EMG MKTS UCITS 1C USD
+Europe,CG1.L,Amundi Investment Solutions,DAX UCITS ETF
+Europe,CS1.L,Amundi Investment Solutions,MSCI Spain
+Europe,CSWG.L,Amundi Luxembourg S.A,MSCI Switzerland UCITS ETF GBP ACC
+Europe,BF2JT35.L,Amundi Luxembourg SA,AM MSCI East Euro EX Russ UC ETF EU
+Europe,BF2JSS3.L,Amundi Luxembourg SA,AM MSCI SWITZERLAND UCITS ETF EUR A
+Europe,CMU.L,Amundi Luxembourg SA,MSCI EMU ESG Leaders Select DR
+Europe,AEXK.L,Amundi Luxembourg SA,MSCI Europe EX UK UCITS ETF - EUR (C)
+Europe,AM10.L,Amundi Luxembourg SA,Msci Nordic UCITS ETF - EUR (C)
+Europe,B04X7G9.L,Credit Suisse Asset Management,IShares SMIM R (CH)
+Europe,B1HPZ65.L,db X-trackers,FTSE MIB UCITS ETF (DR)
+Europe,B4PT173.L,db X-trackers,MSCI Europe Value Factor UCITS ETF (DR)
+Europe,XDN0.L,db X-trackers,MSCI Nordic Index UCITS ETF (DR)
+Europe,B8DLDC8.L,DB X-Trackers,Spain UCITS 1C EUR
+Europe,B1HPZL0.L,db X-trackers,Swiss Large Cap UCITS ETF DR 1D
+Europe,FEUI.L,Fidelity,Europe Qlty Inc UCITS ETF INC (GBP)
+Europe,FEQD.L,Fidelity UCITS ICAV,Europe Quality Income UCITS ETF
+Europe,FEQP.L,Fidelity UCITS ICAV,Europe Quality Income UCITS ETF ACC-GBP (hedged)
+Europe,FEUR.L,FIL Fund Management (Ireland) Limited,Sustain Res ENHD Europe Equity UCITS ETF Acc
+Europe,FEUZ.L,First Trust Global Funds plc,Eurozone Alphadex UCITS EUR(GBP)
+Europe,FLXD.L,Franklin Templeton,LibertyQ European Dividend UCITS ETF
+Europe,H50E.L,HSBC ETFs Plc,Euro Stoxx 50 UCITS
+Europe,HMEU.L,HSBC ETFs Plc,MSCI Europe
+Europe,HTRY.L,HSBC ETFs plc,MSCI Turkey
+Europe,HDEU.L,Invesco Markets III Plc,EURO STOXX High Dividend Low Volatility UCITS ETF
+Europe,PSRE.L,Invesco Markets III Plc,FTSE Rafi Europe Fd - Euro shs
+Europe,SX5S.L,Invesco Markets plc,EURO STOXX 50
+Europe,EFIE.L,Invesco Markets plc,Goldman Sachs Equity Factor Index Europe UCITS
+Europe,MXEU.L,Invesco Markets plc,MSCI Europe UCITS ETF
+Europe,S600.L,Invesco Markets plc,STOXX Europe 600 UCITS ETF
+Europe,EQDS.L,iShares,Core MSCI Europe Quality Div UCITS ETF (GBP)
+Europe,7078055.L,iShares (BlackRock Asset Management Deutschland),Core Dax UCITS ETF (DE)
+Europe,B0791H3.L,iShares (BlackRock Asset Management Deutschland),DivDAX UCITS (DE)
+Europe,7018910.L,iShares (BlackRock Asset Management Deutschland),EURO STOXX 50 (DE)
+Europe,7131419.L,iShares (BlackRock Asset Management Deutschland),MDAX (DE)
+Europe,B00D611.L,iShares (BlackRock Asset Management Deutschland),STOXX Europe 600
+Europe,B4NFRC0.L,iShares (BlackRock Asset Management Deutschland),STOXX Europe 600 Personal & Household Goods
+Europe,B5MJSV6.L,iShares (BlackRock Asset Management Deutschland),STOXX Europe 600 Telecommunications
+Europe,B414978.L,iShares (BlackRock Asset Management Deutschland),STOXX Europe 600 Travel & Leisure (DE)
+Europe,B079258.L,iShares (BlackRock Asset Management Deutschland),STOXX Europe Small 200 (DE)
+Europe,BKM4H53.L,iShares (BlackRock Asset Management Deutschland),Swiss Dividend
+Europe,BWTNRN5.L,iShares (BlackRock Asset Management Ireland),MSCI EMU CHF Hedged UCITS ETF (Dist)
+Europe,IEFM.L,iShares Edge IV plc,MSCI Europe Momentum Factor UCITS ETF
+Europe,FSEU.L,iShares Edge IV plc,MSCI Europe Multifactor UCITS ETF
+Europe,IEFQ.L,iShares Edge IV plc,MSCI Europe Quality Factor UCITS ETF
+Europe,IEFS.L,iShares Edge IV plc,MSCI Europe Size Factor UCITS ETF
+Europe,IEFV.L,iShares Edge IV plc,MSCI Europe Value Factor UCITS ETF
+Europe,EUE.L,iShares II plc,Core Euro STOXX 50 UCITS ETF (Dist)
+Europe,IMEU.L,iShares II plc,Core MSCI Europe UCITS ETF (Dist)
+Europe,IMIB.L,iShares II plc,FTSE MIB UCITS ETF (Dist)
+Europe,IESG.L,iShares II plc,MSCI Europe SRI UCITS ETF (GBP)
+Europe,ITKY.L,iShares II plc,MSCI Turkey
+Europe,IDTK.L,iShares II plc,MSCI Turkey (USD)
+Europe,EUN.L,iShares II plc,STOXX Europe 50
+Europe,SMEA.L,iShares III plc,Core MSCI Europe (Acc) EUR
+Europe,IFSD.L,iShares IV Plc,Edge MSCI Europe Multifactor UCITS ETF EUR (Dist)
+Europe,BNZC4Q5.L,iShares IV plc,MSCI EMU Large Cap UCITS ETF EUR (Acc)
+Europe,EEUD.L,iShares IV plc,MSCI Europe ESG Enhanced UCITS ETF Dist
+Europe,SDUE.L,Ishares Iv Plc,MSCI Europe ESG Screened UCITS ETF
+Europe,ISFR.L,iShares IV plc,MSCI France UCITS ETF Acc (GBP)
+Europe,OMXS.L,iShares IV plc,OMX Stockholm Capped UCITS SEK(GBP)
+Europe,IAEX.L,iShares plc,AEX
+Europe,DJMC.L,iShares plc,EURO STOXX Mid
+Europe,IDVY.L,iShares plc,EURO STOXX Select Dividend 30
+Europe,DJSC.L,iShares plc,EURO STOXX Small
+Europe,IDJG.L,iShares plc,EURO STOXX Total Market Growth Large
+Europe,IEER.L,iShares plc,MSCI Eastern Europe 10/40
+Europe,IDEE.L,iShares plc,MSCI Eastern Europe 10/40
+Europe,CES1.L,iShares plc,MSCI EMU Small Cap UCITS ETF
+Europe,IEUX.L,iShares plc,MSCI Europe ex-UK
+Europe,EUXS.L,iShares plc,MSCI Europe ex-UK GBP Hedged UCITS ETF
+Europe,IPOL.L,iShares V plc,MSCi Poland UCITS ETF
+Europe,SPOL.L,iShares V plc,MSCI Poland UCITS ETF USD Acc (GBP)
+Europe,MVED.L,IShares VI Plc,Edge MSCI Euro Min Vol UCITS EUR Dis
+Europe,IMV.L,iShares VI plc,Edge MSCI Europe Minimum Volatility GBP
+Europe,ESIE.L,IShares VI Plc,MSCI EUR Energy Sector UCITS ETF EUR Acc
+Europe,EUMD.L,IShares VI Plc,MSCI Europe Mid Cap UCITS ETF EUR (Acc)
+Europe,CSX5.L,iShares VII plc,Core EURO STOXX 50
+Europe,CEU1.L,iShares VII plc,Core MSCI EMU UCITS ETF
+Europe,CEUG.L,IShares VII Plc,Core MSCI EMU UCITS ETF GBP Hedged (Dist)
+Europe,CMB1.L,iShares VII plc,FTSE MIB UCITS ETF
+Europe,CS51.L,iShares VII plc,iShares Core EURO STOXX 50 B EUR Acc (GBP)
+Europe,LGEG.L,Legal & General,Europe Ex UK EQTY UCITS ETF EUR (GBP)
+Europe,DEL2.L,Legal & General UCITS ETF,DAX 2X Long Fund
+Europe,DL2P.L,Legal & General UCITS ETF,DAX 2X Long Fund Shares Eur (GBP)
+Europe,DS2P.L,Legal & General UCITS ETF,DAX 2X Short Fund Shares EUR (GBP)
+Europe,DES2.L,Legal & General UCITS ETF,L&G DAX 2X Short Fund
+Europe,MIBX.L,Lyxor,FTSE MIB UCITS ETF - Dist
+Europe,TURL.L,Lyxor,MSCI Turkey UCITS ETF Acc
+Europe,MEUD.L,Lyxor Index Fund SICAV,Core Stoxx Europe 600 GBP
+Europe,BYX8LV6.L,Lyxor Index Fund SICAV,MSCI EMU Value DR UCITS C EUR
+Europe,CACX.L,Lyxor International Asset Management,CAC 40 (GBP)
+Europe,7028704.L,Lyxor International Asset Management,CAC 40 Master Unit
+Europe,7078066.L,Lyxor International Asset Management,DJ Euro Stoxx 50 Master Unit
+Europe,MSED.L,Lyxor International Asset Management,EURO STOXX 50
+Europe,BMN9L59.L,Lyxor International Asset Management,FTSE Italian Mid Cap
+Europe,B39YP97.L,Lyxor International Asset Management,Leverage CAC 40
+Europe,B1MFTS0.L,Lyxor International Asset Management,Lyxor MSCI GREECE UCITS ETF - Dist
+Europe,B1VWLN1.L,Lyxor International Asset Management,XBear DJ Eurostoxx 50
+Europe,B17Z877.L,Lyxor Master Fund,Lyxor ETF Leverage DAX
+Europe,CECL.L,MSCI Eastern Europe Ex Russia UCITS ETF - Acc,MSCI Eastern Europe Ex Russia UCITS ETF - Acc
+Europe,MSEX.L,Multi Units France,Euro Stoxx 50 (DR) Daily Hedged C-GBP
+Europe,DAXX.L,Multi Units Luxembourg,DAX
+Europe,DAXX.L,Multi Units Luxembourg,DAX
+Europe,SGQE.L,Multi Units Luxembourg,Lyxor UCITS ETF SG European Quality Income
+Europe,EUMV.L,Ossiam,ISTOXX Europe Minimum Variance NR UCITS ETF 1C EUR
+Europe,S6EW.L,Ossiam,STOXX Europe 600 Equal Weight NR UCITS ETF 1C
+Europe,LCPE.L,Ossiam ETF,Shiller Barclays Cape Europe Sector Value
+Europe,B519936.L,SSGA SPDR ETFs Europe I plc,MSCI EMU UCITS ETF EUR
+Europe,EUDV.L,SSGA SPDR ETFs Europe I plc,S&P Euro Dividend Aristocrats GBP
+Europe,CDIS.L,SSGA SPDR ETFs Europe II,MSCI Europe Consumer Discretionary UCITS ETF
+Europe,LOWE.L,SSGA SPDR ETFs Europe II plc,Euro Stoxx Low Volatility
+Europe,CSTP.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Consumer Staples UCITS ETF
+Europe,BM67JT0.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Small Cap UCITS
+Europe,BSPLC63.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Small Cap Value Weighted UCITS ETF
+Europe,ERO.L,SSGA SPDR ETFs Europe II plc,MSCI Europe UCITS
+Europe,EVAL.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Value UCITS ETF
+Europe,7224041.L,UBS (LUX) Fund Solutions,Euro STOXX 50 UCITS A-dis
+Europe,B24H3F6.L,UBS AG,UBS-ETF SLIR
+Europe,BYTLKS9.L,UBS ETF Sicav,Factor MSCI EMU Prime Value UCITS ETF (EUR)
+Europe,UB06.L,UBS ETF SICAV,MSCI EMU
+Europe,UB69.L,UBS ETF SICAV,MSCI EMU Small Cap UCITS ETF A - Dis
+Europe,UB39.L,UBS ETF SICAV,MSCI EMU Socially Resp UCITS
+Europe,UB0E.L,UBS ETF SICAV,MSCI EMU UCITS ETF (Hedged to GBP) A-dis
+Europe,UB0F.L,UBS ETF SICAV,MSCI EMU UCITS ETF (Hedged to GBP) A-dis
+Europe,UB17.L,UBS ETF SICAV,MSCI EMU Value
+Europe,UB12.L,UBS ETF SICAV,MSCI Europe
+Europe,UC94.L,UBS ETF SICAV,MSCI Switzerland 20/35 Hedged To GBP UCITS A ETF
+Europe,UC93.L,UBS ETF SICAV,MSCI Switzerland 20/35 Hedged To GBP UCITS ETF A
+Europe,7735877.L,UBS ETF SICAV,SMI (CHF) A-dis
+Europe,VEUR.L,Vanguard Funds plc,FTSE Developed Europe
+Europe,VERG.L,Vanguard Funds plc,FTSE Developed Europe Ex UK UCITS ETF (GBP)
+Europe,VERX.L,Vanguard Funds plc,FTSE Developed Europe ex-UK UCITS ETF
+Europe,VGER.L,Vanguard Funds plc,Vanguard Germany All Cap UCITS ETF
+Europe,3DEL.L,WisdomTree,DAX 30 3x Daily Leveraged
+Europe,3LDE.L,WisdomTree,DAX 30 3x Daily Leveraged (GBP)
+Europe,3DES.L,WisdomTree,DAX 30 3x Daily Short
+Europe,3EUL.L,WisdomTree,EURO STOXX 50 3x Daily Leveraged
+Europe,3EUS.L,WisdomTree,EURO STOXX 50 3x Daily Short
+Europe,BD3CTQ2.L,WisdomTree,FTSE MIB 3x Daily Leveraged
+Europe,BD3CTP1.L,WisdomTree,FTSE MIB 3x Daily Short
+Europe,DFEP.L,Wisdomtree Issue Plc,EUROPE SMALLCAP DIV UCITS GBP ACC
+Europe,EEIP.L,Wisdomtree Issuer plc,Europe Equity Income UCITS ETF GBP
+Europe,HEDJ.L,WisdomTree Issuer plc,Europe Hedged Equity UCITS ETF
+Europe,DFE.L,WisdomTree Issuer plc,Europe SmallCap Dividend UCITS ETF
+Europe,EEI.L,WisdomTree Issuer plc,European Equity Income UCITS ETF
+Europe,XDDX.L,Xtrackers,DAX UCITS ETF (DR) - Income 1D
+Europe,XDAX.L,Xtrackers,DAX UCITS ETF (DR) 1C
+Europe,XSSX.L,Xtrackers,Euro Stoxx 50 Short Daily UCITS ETF
+Europe,XESC.L,Xtrackers,Euro STOXX 50 UCITS ETC (DR)1C
+Europe,XESX.L,Xtrackers,Euro STOXX 50 UCITS ETF (DR) 1D
+Europe,XD3E.L,Xtrackers,Euro Stoxx Quality Dividend UCITS E
+Europe,XDER.L,Xtrackers,FTSE EPRA/NAREIT Developed Europe Real Estate (DR)
+Europe,XLDX.L,Xtrackers,LevDAX Daily UCITS ETF
+Europe,XLDX.L,Xtrackers,LevDAX Daily UCITS ETF
+Europe,XD5E.L,Xtrackers,MSCI EMU INDEX UCITS ETF DR 1D
+Europe,XD5S.L,Xtrackers,MSCI EMU INDEX UCITS ETF DR GBP
+Europe,XMEU.L,Xtrackers,MSCI Europe Index UCITS ETF (DR) 1C
+Europe,XEUM.L,Xtrackers,MSCI Europe Mid Cap Index UCITS ETF (DR)
+Europe,XXSC.L,Xtrackers,MSCI Europe Small Cap Index UCITS ETF (DR)
+Europe,XSDX.L,Xtrackers,ShortDAX Daily UCITS ETF
+Europe,XSD2.L,Xtrackers,ShortDAX X2 Daily UCITS ETF
+Europe,XSX6.L,Xtrackers,Stoxx Europe 600 UCITS ETF (DR)
+Europe,XZEU.L,Xtrackers,Xtrackers MSCI Europe ESG UCITS ETF
+FTSE 100,BD46GT5.L,Amundi Investment Solutions,FTSE 100 (EUR)
+FTSE 100,HUKX.L,HSBC ETFs Plc,FTSE 100 UCITS ETF
+FTSE 100,S100.L,Invesco Markets Plc,FTSE 100 UCITS ETF
+FTSE 100,ISF.L,iShares plc,Core FTSE 100 UCITS ETF (Dist)
+FTSE 100,CUKX.L,iShares VII plc,Core FTSE 100 (Acc)
+FTSE 100,SUK2.L,Legal & General UCITS ETF,FTSE 100 Super Short Strategy (2X) Fund
+FTSE 100,LUK2.L,Legal & General UCITS ETF,L&G FTSE 100 Leveraged (2X) Fund
+FTSE 100,100D.L,Lyxor Asset Management,FTSE 100 UCITS ETF (GBP) Dist
+FTSE 100,L100.L,Multi Units Luxembourg Lyxor,FTSE 100 UCITS C GBP ETF
+FTSE 100,UB03.L,UBS ETF SICAV,FTSE 100 UCITS ETF A Inc
+FTSE 100,VUKE.L,Vanguard Funds plc,FTSE 100 UCITS ETF GBP
+FTSE 100,2UKS.L,WisdomTree,FTSE 100 2x Daily Short
+FTSE 100,XUKS.L,Xtrackers,FTSE 100 Short Daily UCITS ETF
+FTSE 100,XDUK.L,Xtrackers,FTSE 100 UCITS ETF (DR)
+FTSE 100,XUKX.L,Xtrackers,FTSE 100 UCITS ETF (DR) - Income
+FTSE 250,HMCX.L,HSBC ETFs Plc,FTSE 250
+FTSE 250,S250.L,Invesco Markets plc,FTSE 250 UCITS ETF
+FTSE 250,MIDD.L,iShares plc,FTSE 250
+FTSE 250,VMID.L,Vanguard Funds plc,FTSE 250 UCITS ETF
+FTSE 250,XMCX.L,Xtrackers,FTSE 250 UCITS ETF (DR)
+Japan,JPHG.L,Amundi Luxembourg SA,JPX NIKKEI 400 UC ETF DLY GBP ACC H
+Japan,XDNY.L,db X-trackers,JPX-Nikkei 400 UCITS ETF DR
+Japan,XDNG.L,db X-trackers,JPX-Nikkei 400 UCITS ETF DR GBP
+Japan,NXTG.L,First Trust Global Funds PLC,INDXX NEXTG UCITS ETF JPY(GBP)
+Japan,HMJP.L,HSBC ETFs Plc,MSCI Japan UCITS
+Japan,S400.L,Invesco Markets plc,JPX Nikkei 400 UCITS ETF
+Japan,N4US.L,Invesco Markets plc,JPX-Nikkei 400 UCITS ETF USD Hedged
+Japan,B18Q2H7.L,iShares (BlackRock Asset Management Deutschland),Nikkei 225
+Japan,IJPA.L,iShares III plc,Core MSCI Japan IMI Acc
+Japan,SJPA.L,iShares III plc,Core MSCI Japan IMI Acc USD (GBX)
+Japan,IDJP.L,iShares III plc,MSCI Japan SmallCap
+Japan,ISJP.L,iShares III plc,MSCI Japan SmallCap
+Japan,SDJP.L,iShares IV plc,MSCI Japan ESG Screened UCITS ETF USD Dist
+Japan,SUJS.L,iShares IV plc,Sustainbale MSCI Japan SRI EUR Hedged UCITS ETF
+Japan,IJPN.L,iShares plc,MSCI Japan UCITS ETF (Dist)
+Japan,IJPD.L,iShares plc,MSCI Japan USD Hedged UCITS ETF
+Japan,IJPE.L,iShares V plc,MSCI Japan Monthly EUR Hedged (EUR)
+Japan,IJPH.L,iShares V plc,MSCI Japan Monthly GBP Hedged
+Japan,SUJP.L,IShares VI Plc,MSCI Japan SRI UCITS ETF USD Acc
+Japan,CJPU.L,iShares VII plc,Core MSCI Japan USD
+Japan,CNKY.L,iShares VII plc,Nikkei 225 UCITS ETF JPY Acc
+Japan,LGJP.L,Legal & General,Japan Equity Ucits ETF USD ACC
+Japan,LGJG.L,Legal & General,Japan Equity UCITS ETF USD(GBP) ACC
+Japan,LCJG.L,Lyxor Asset Management,Core MSCI Japan (DR) UCITS ETF Daily Hedged Acc
+Japan,JPNL.L,Multi Units France,Japan Topix
+Japan,LCJP.L,Multi Units Luxembourg,Lyxor Core MSCI Japan (DR) UCITS ETF
+Japan,JPXG.L,Multi Units Luxembourg,Lyxor JPX Nikkei 400 (DR) Ucits ETF C EUR
+Japan,JPXX.L,Multi Units Luxembourg,Lyxor JPX Nikkei 400 DR Ucits ETF Daily Hedge C GB
+Japan,JPXU.L,Multi Units Luxembourg,Lyxor JPX Nikkei 400 DR Ucits ETF Daily Hedge C US
+Japan,UB02.L,UBS ETF SICAV,MSCI Japan
+Japan,JPSR.L,UBS Global Asset Management,MSCI Japan Socially Res UCITS ETF A-dis
+Japan,VJPN.L,Vanguard Funds plc,FTSE Japan Equity
+Japan,VDJP.L,Vanguard Funds Plc,FTSE Japan UCITS ETF - Dist
+Japan,DXJP.L,WisdomTree Issuer plc,Japan Equity UCITS ETF
+Japan,DXJ.L,WisdomTree Issuer plc,Japan Equity UCITS ETF USD Hedged
+Japan,XMJD.L,Xtrackers,MSCI Japan Index UCITS ETF (DR)
+Japan,XMJP.L,Xtrackers,MSCI Japan Index UCITS ETF (DR)
+Japan,XMJG.L,Xtrackers,MSCI Japan Index UCITS ETF (DR) (GBP)
+Japan,XDJP.L,Xtrackers,Nikkei 225 UCITS ETF (DR) 1D
+Latin and South America,BRZ.L,Amundi Investment Solutions,MSCI Brazil USD
+Latin and South America,BF2JV95.L,Amundi Luxembourg SA,Msci Em Latin America Ucits ETF - EUR (C)
+Latin and South America,HMBR.L,HSBC ETFs Plc,MSCI Brazil (USD)
+Latin and South America,HMLA.L,HSBC ETFs plc,MSCI Em Latin America UCITS ETF GBP
+Latin and South America,HMEX.L,HSBC ETFS plc,MSCI Mexico Capped ETF GBP
+Latin and South America,LTAM.L,iShares II plc,MSCI EM Latin America (GBP) UCITS ETF (Dist)
+Latin and South America,IDBZ.L,iShares plc,MSCI Brazil (USD) UCITS ETF (Dist)
+Latin and South America,IBZL.L,iShares plc,MSCI Brazil UCITS ETF (Dist)
+Latin and South America,CMX1.L,iShares VII plc,MSCI Mexico Capped USD (GBP)
+Latin and South America,LTMU.L,Lyxor Asset Management,MSCI EM Latin America UCITS ETF - Acc (USD)
+Latin and South America,XMBR.L,Xtrackers,MSCI Brazil Index UCITS ETF (DR)
+Latin and South America,XMLA.L,Xtrackers,MSCI EM LATAM ESG INDEX UCITS ETF
+Latin and South America,XMES.L,Xtrackers,MSCI Mexico Index UCITS ETF (DR)
+Latin and South America,XMEX.L,Xtrackers,MSCI Mexico Index UCITS ETF (DR)
+North America,BF2JTS0.L,Amundi Luxembourg SA,AM NASDAQ100 UC ETF EUR ACC
+North America,ANXU.L,Amundi Luxembourg SA,NASDA-100 UCITS ETF USD
+North America,RS2G.L,Amundi Luxembourg SA,Russell 2000 UCITS ETF - USD (C)
+North America,MACG.L,BlackRock,ESG Multi-Asset Conservative Portfolio UCITS ETF G
+North America,MAGG.L,BlackRock,ESG Multi-Asset Growth Portfolio UCITS ETF GBP Hed
+North America,MAMG.L,BlackRock,ESG Multi-Asset Moderate Portfolio UCITS ETF GBP H
+North America,BTEK.L,BlackRock Asset Management Ireland Limited,iShares Nasdaq US Biotechnology UCITS ETF
+North America,BYWVHV8.L,db X-trackers,MSCI North America Hi Div Yield Index UCITS ETF DR
+North America,XDUS.L,db X-trackers,MSCI USA Index UCITS ETF (DR) 1C
+North America,XRSG.L,db X-trackers,Russell 2000 UCITS ETF (DR)
+North America,XRSS.L,db X-trackers,Russell Midcap UCITS ETF (DR)
+North America,XDWE.L,db x-trackers,S&P 500 Equal Weight UCITS ETF (DR)
+North America,XDPG.L,db x-trackers,S&P 500 UCITS ETF (DR) (GBP)
+North America,FUSP.L,Fidelity UCITS ICAV,US Quality Income UCITS ETF ACC-GBP (hedged)
+North America,FUQA.L,Fidelity UCITS ICAV,US Quality Income UCITS GBP ACC
+North America,FUSI.L,Fidelity UCITS ICAV,US Quality Income UCITS GBP INC
+North America,UINC.L,First Trust Global Funds,US Equity Income UCITS ETF
+North America,FDNI.L,First Trust Global Funds plc,Dow Jones International Internet UCITS ETF
+North America,FPX.L,First Trust Global Funds Plc,US Equity Opportunities UCIT ETF
+North America,FEX.L,First Trust Global Funds plc,US Large Cap Core AlphaDEX UCITS
+North America,BHR47K2.L,GraniteShares,3x Short Rolls-Royce Daily ETF GBP
+North America,HCAN.L,HSBC ETFs plc,MSCI Canada UCITS ETF USD (GBP)
+North America,HMUS.L,HSBC ETFs Plc,MSCI USA
+North America,HSPX.L,HSBC ETFs plc,S&P 500 ETF USD
+North America,SPXS.L,Invesco Markets,S&P 500 UCITS ETF A
+North America,ESGS.L,Invesco Markets II Plc,MSCI USA ESG Universal Screened UCITS ETF Acc
+North America,EQJS.L,Invesco Markets II plc,NASDAQ Next Generation 100 UCITS ETF
+North America,PSRF.L,Invesco Markets III,FTSE Rafi US 1000 UCITS ETF - USD
+North America,EQQQ.L,Invesco Markets III PLC,EQQQ NASDAQ 100 UCITS ETF
+North America,EQGB.L,Invesco Markets III Plc,EQQQ NASDAQ-100 UCITS GBP HDG
+North America,EQQU.L,Invesco Markets III Plc,EQQQ NASDAQ-100 UCITS USD
+North America,PQVM.L,Invesco Markets III Plc,S&P 500 QVM USD
+North America,XLCP.L,Invesco Markets Plc,Communications S&P US Select Sector UCITS ETF Acc
+North America,XLFQ.L,Invesco Markets Plc,Financials S&P US Select Sector UCITS ETF
+North America,XLBP.L,Invesco Markets Plc,Materials S&P US Sel Sec UCITS ETF
+North America,MLPD.L,Invesco Markets plc,Morningstar US En Inf MLP UCITS ETF B USD
+North America,MXUS.L,Invesco Markets plc,MSCI USA UCITS ETF
+North America,XRES.L,Invesco Markets Plc,Real Estate S&P US Select Sector UCITS ETF
+North America,RTYS.L,Invesco Markets plc,Russell 2000 UCITS
+North America,SPEP.L,Invesco Markets plc,S&P 500 ESG UCITS ETF Acc (GBP)
+North America,HDLG.L,Invesco Markets Plc,S&P 500 High Dividend Low Volatility
+North America,SPXP.L,Invesco Markets plc,S&P 500 UCITS ETF A GBP
+North America,USML.L,Invesco Markets Plc,S&P SmallCap 600 UCITS ETF USD
+North America,IPRV.L,iShares II plc,Listed Private Equity
+North America,ISUS.L,iShares II plc,MSCI USA Islamic
+North America,ISP6.L,iShares III plc,S&P SmallCap 600 (GBP)
+North America,IDP6.L,iShares III plc,S&P SmallCap 600 (USD)
+North America,IUMF.L,iShares IV Plc,EDGE MSCI USA MOMENTUM FAC UCTS USD
+North America,UFSD.L,iShares IV Plc,Edge MSCI USA Multifactor UCITS ETF USD (Dist)
+North America,IUQF.L,iShares IV Plc,EDGE MSCI USA QUALITY FACT UCTS USD
+North America,IUQD.L,iShares IV plc,Edge MSCI USA Quality Factor UCITS ETF (Dist)
+North America,IUSF.L,iShares IV Plc,EDGE MSCI USA SIZE FACTOR UCTS USD
+North America,FSUS.L,IShares iv plc,Edge msci Usa Ucits ETF USD Acc
+North America,IUVF.L,iShares IV Plc,EDGE MSCI USA VALUE FACTOR UCTS USD
+North America,SDUS.L,iShares IV plc,MSCI USA ESG Screened UCITS ETF USD Dist
+North America,SUUS.L,Ishares Iv Plc,MSCI USA SRI UCITS ETF USD (Acc) GBP
+North America,IDUS.L,iShares plc,Core S&P 500 (USD) UCITS ETF (Dist)
+North America,INAA.L,iShares plc,MSCI North America
+North America,IDNA.L,iShares plc,MSCI North America (USD)
+North America,HDIQ.L,iShares plc,MSCI USA Quality Dividend UCITS ETF
+North America,QDIV.L,iShares plc,MSCI USA Quality Dividend UCITS ETF
+North America,CUS1.L,iShares plc,MSCI USA Small Cap UCITS ETF USD Acc
+North America,IUSA.L,iShares plc,S&P 500 UCITS ETF (Dist)
+North America,IUSE.L,IShares V plc,S&P 500 EUR HEDGED EUR UCITS ACC
+North America,IGUS.L,iShares V plc,S&P 500 Monthly GBP Hedged (GBP)
+North America,MVUS.L,iShares VI plc,Edge S&P 500 Minimum Volatility GBP
+North America,CSP1.L,iShares VII plc,Core S&P 500 B GBP ACC
+North America,CSPX.L,iShares VII plc,Core S&P 500 B USD ACC
+North America,GSPX.L,IShares VII Plc,Core S&P 500 UCITS ETF GBP Dis Hdg
+North America,CIND.L,iShares VII plc,Dow Jones Industrial Average UCITS ETF
+North America,CCAU.L,iShares VII plc,MSCI Canada USD
+North America,CSCA.L,iShares VII plc,MSCI Canada USD (GBP)
+North America,CU1.L,iShares VII plc,MSCI USA USD Acc (GBP)
+North America,CNX1.L,iShares VII plc,NASDAQ 100 UCITS ETF USD Acc
+North America,CNDX.L,iShares VII plc,NASDAQ 100 USD ACC
+North America,BBDD.L,JPMorgan Funds ETFs,BetaBuilders US Equity UCITS ETF Dist
+North America,JURE.L,JPMorgan Funds ETFs (Ireland) ICAV,US Research Enhanced Index Equity (ESG) UCITS ETF
+North America,LGUG.L,Legal & General,US Equity UCITS ETF USD(GBP) ACC
+North America,RTWO.L,Legal & General UCITS ETF,2000 Small Cap Quality
+North America,RTWP.L,Legal & General UCITS ETF,Russell 2000 US Small Cap Fund GBP
+North America,STSL.L,Leverage Shares PLC,-1X Tesla ETP GBP
+North America,GOO2.L,Leverage Shares Plc,2X Alphabet ETP 03/04/67 USD
+North America,2AMZ.L,Leverage Shares plc,2x Amazon ETP 03/04/67 GBP
+North America,AMZ2.L,Leverage Shares Plc,2X Amazon ETP 03/04/67 USD
+North America,2AAP.L,Leverage Shares plc,2x Apple ETP 03/04/67 (GBP)
+North America,AAP2.L,Leverage Shares Plc,2X Apple ETP 03/04/67 USD
+North America,2FB.L,Leverage Shares Plc,2X Facebook ETP 03/04/67 GBP
+North America,2GS.L,Leverage Shares Plc,2x Goldman Sachs ETP 03/04/67 GBP
+North America,2MSF.L,Leverage Shares plc,2x Microsoft ETP 03/04/67 (GBP)
+North America,MSF2.L,Leverage Shares Plc,2X Microsoft ETP 03/04/67 USD
+North America,2NFL.L,Leverage Shares Plc,2x Netflix ETP 31/12/67 GBP
+North America,2NVD.L,Leverage Shares plc,2X NVIDIA ETP 31/12/67 GBP
+North America,NVD2.L,Leverage Shares Plc,2X Nvidia ETP 31/12/67 USD
+North America,2TSL.L,Leverage Shares PLC,2X Tesla ETP GBP
+North America,2VIS.L,Leverage Shares Plc,2X Visa ETP 31/12/67 GBP
+North America,3FB.L,Leverage Shares PLC,3x Facebook ETP GBP
+North America,3MSF.L,Leverage Shares PLC,3x Microsoft ETP GBP
+North America,3NVD.L,Leverage Shares PLC,3X Nvidia ETP GBP
+North America,SP5G.L,Lyxor,S&P 500 UCITS ETF Hedged to GBP Acc
+North America,RSGL.L,Lyxor Asset Management,Lyxor Russell 1000 Growth UCITS ETF - Acc
+North America,DJEL.L,Lyxor International Asset Management,Dow Jones Industrial Average
+North America,BGBMSY6.L,Lyxor International Asset Management,NASDAQ-100 UCITS ETF EUR
+North America,BGBMSY6.L,Lyxor International Asset Management,NASDAQ-100 UCITS ETF EUR
+North America,USAL.L,MULTI UNITS FRANCE,MSCI USA D EUR (GBP)
+North America,LCUS.L,Multi Units Luxembourg,Lyxor Core Morn US DR UCITS ETF GBP
+North America,LSPX.L,Multi Units Luxembourg,Lyxor ETF S&P 500 B (USD)GBX
+North America,LCAN.L,Multi Units Luxembourg,LYXOR ETF S&P TSX 60 A GBP
+North America,CAPU.L,Ossiam ETF,Shiller Barclays Cape US Val Tr 1C (USD)
+North America,BHNGHW4.L,Ossiam IRL ICAV,US Min Variance ESG NR UCITS ETF 1A US
+North America,SPY5.L,SPDR ETFs Europe I plc,S&P 500 USD
+North America,UDVD.L,SPDR ETFs Europe I plc,S&P US Dividend Aristocrats USD
+North America,EMSM.L,SSGA SPDR ETFs Europe I plc,MSCI Emerging Markets Small Cap
+North America,SPY4.L,SSGA SPDR ETFs Europe I plc,S&P 400 US Mid Cap ETF
+North America,USLV.L,SSGA SPDR ETFs Europe I plc,S&P 500 Low Volatility GBP
+North America,LOWV.L,SSGA SPDR ETFs Europe I plc,S&P 500 Low Volatility USD
+North America,USDV.L,SSGA SPDR ETFs Europe I plc,S&P US Dividend Aristocrats
+North America,USSC.L,SSGA SPDR ETFs Europe II plc,MSCI USA Small Cap Value Weighted UCITS
+North America,UVAL.L,SSGA SPDR ETFs Europe II plc,MSCI USA Value UCITS
+North America,R2SC.L,SSGA SPDR ETFs Europe II PLC,Russell 2000 US Small Cap UCITS USD
+North America,SXLY.L,State Street Global Advisors Ltd (IE),S&P US Consumer Discretionary Select Sector UCITS
+North America,UPVL.L,UBS (Irl) Fund Solutions plc,Factor MSCI USA Prime Value UCITS ETF (GBP) A-dis
+North America,UQLT.L,UBS (Irl) Fund Solutions plc,Factor MSCI USA Quality UCITS ETF (GBP) A-dis
+North America,AWSG.L,UBS (Irl) Fund Solutions plc,MSCI ACWI Socially Respon UCITS ETF Hedg To GBP
+North America,UC99.L,UBS (Irl) Fund Solutions plc,MSCI USA Quality UCITS ETF
+North America,USFM.L,UBS (Irl) Fund Solutions plc,MSCI USA SEL FCTR MIX UCT ETF A USD
+North America,SRUG.L,UBS (Irl) Fund Solutions Plc,MSCI USA Social Resp UCITS ETF GBP
+North America,UC07.L,UBS (Irl) Fund Solutions plc,MSCI USA Value UCITS ETF (USD) A-dis
+North America,5ESG.L,UBS (Irl) Fund Solutions plc,S&P 500 ESG UCITS ETF (Hedged To GBP) A-dis
+North America,S5SD.L,UBS (Irl) Fund Solutions plc,S&P 500 ESG UCITS ETF (USD) A-dis
+North America,USPG.L,UBS (Irl) Fund Solutions plc,S&P 500 UCITS A DIS HDG TO GBP
+North America,UB23.L,UBS ETF SICAV,MSCI Canada
+North America,UC87.L,UBS ETF SICAV,MSCI Canada UCITS ETF Hedged to GBP A Acc
+North America,UC46.L,UBS ETF SICAV,MSCI USA Socially Responsible UCITS A USD Dis
+North America,UC98.L,UBS Global Asset Management,BBG Barc MSCI US Liq Corp Sust UCITS ETF (USD)
+North America,MOAT.L,VanEck Vectors ETF,Morningstar US Wide Moat UCITS ETF
+North America,MOGB.L,VanEck Vectors ETF,Morningstar US Wide Moat UCITS ETF GBP
+North America,VNRT.L,Vanguard Funds plc,FTSE North America UCITS ETF
+North America,VUAG.L,Vanguard Funds plc,S&P 500 UCITS ETF USD ACC (GBP)
+North America,VUSD.L,Vanguard Funds Plc,S&P 500 UCITS ETF USD DIS
+North America,VUSA.L,Vanguard Funds plc,S&P 500 UCITS ETF USD(GBP)
+North America,LQQ3.L,WisdomTree,NASDAQ 100 3x Daily Leveraged (GBP)
+North America,QQQ3.L,WisdomTree,NASDAQ 100 3x Daily Leveraged (USD)
+North America,QQQS.L,WisdomTree,NASDAQ 100 3x Daily Short
+North America,3USL.L,WisdomTree,S&P 500 3x Daily Leveraged
+North America,3LUS.L,WisdomTree,S&P 500 3x Daily Leveraged
+North America,3USS.L,WisdomTree,S&P 500 3x Daily Short
+North America,3ULS.L,WisdomTree,S&P 500 3x Daily Short (GBP)
+North America,DHS.L,WisdomTree Issuer plc,US Equity Income UCITS ETF
+North America,XCAD.L,Xtrackers,MSCI Canada Index UCITS ETF (DR)
+North America,XMUS.L,Xtrackers,MSCI USA Index UCITS ETF
+North America,XT2D.L,Xtrackers,S&P 500 2x Inverse Daily UCITS ETF
+North America,XS2D.L,Xtrackers,S&P 500 2x Leveraged Daily UCITS ETF
+North America,XSPS.L,Xtrackers,S&P 500 Inverse Daily UCITS ETF
+North America,XSPS.L,Xtrackers,S&P 500 Inverse Daily UCITS ETF
+North America,XSPX.L,Xtrackers,S&P 500 Swap UCITS ETF
+North America,XSPU.L,Xtrackers,S&P 500 UCITS ETF
+North America,XESU.L,Xtrackers (IE) plc,MSCI USA ESG UCITS ETF
+North America,XSFN.L,Xtrackers (IE) Plc,MSCI USA Financials UCITS ETF 1D
+Russia,HRUB.L,HSBC ETFS Plc,MSCI Russia Capped UCITS ETF GBP
+Russia,RDXS.L,Invesco Markets plc,Invesco RDX UCITS ETF A SHS USD
+Russia,CRU1.L,iShares VII plc,MSCI Russia ADR/GDR UCITS ETF
+Russia,CSRU.L,iShares VII plc,MSCI Russia ADR/GDR UCITS ETF
+Russia,RUSL.L,Lyxor,MSCI Russia UCITS ETF Dist
+Russia,XMRC.L,Xtrackers,MSCI Russia Capped Index
+UK,CUK.L,Amundi ETF,MSCI UK EUR UCITS
+UK,FKU.L,First Trust Global Funds plc,United Kingdom AlphaDEX UCITS
+UK,3LBP.L,GraniteShares,3x Long BP Daily ETF
+UK,3SBP.L,GraniteShares,3x Short BP Daily ETF
+UK,3SRI.L,GraniteShares,3x Short Rio Tinto Daily ETF
+UK,3SVO.L,Graniteshares,3x Short Vodafone Daily ETF
+UK,PSRU.L,Invesco Markets III,FTSE Rafi UK 100 Fd - Sterling Shs
+UK,IUKD.L,iShares plc,FTSE UK Dividend
+UK,CUKS.L,iShares VII plc,MSCI UK Small CAP UCITS ETF
+UK,CSUK.L,iShares VII plc,MSCI UK UCITS ETF GBP Acc
+UK,LGUK.L,Legal & General,UK Equity UCITS ETF (GBP) Acc
+UK,LCUK.L,Lyxor,Core Morningstar UK NT (DR) UCITS ETF - Dist
+UK,UKMV.L,Ossiam ETF,FTSE 100 Min Variance 1C A NR GBP
+UK,FTAL.L,SSGA SPDR ETFs Europe I plc,FTSE UK All Share
+UK,FTAD.L,SSGA SPDR ETFS Europe I Plc,FTSE Uk All Share UCITS ETF
+UK,UKDV.L,SSGA SPDR ETFs Europe I plc,S&P UK Dividend Aristocrats GBP
+UK,UKSR.L,UBS (Irl) Fund Solutions plc,MSCI UK IMI Socially Resp UCITS ETF GBP A
+UK,VUKG.L,Vanguard Funds Plc,FTSE 100 UCITS ETF GBP ACC
+UK,VMIG.L,Vanguard Funds Plc,FTSE 250 UCITS ETF Acc
+UK,VHYG.L,Vanguard Funds Plc,FTSE All World High Dividend Yield UCITS ETF
+UK,SUK1.L,WisdomTree,FTSE 100 1x Daily Short
+UK,2UKL.L,WisdomTree,FTSE 100 2x Daily Leveraged
+UK,3UKL.L,WisdomTree,FTSE 100 3x Daily Leveraged
+UK,3UKS.L,WisdomTree,FTSE 100 3x Daily Short
+UK,1MCS.L,WisdomTree,FTSE 250 1x Daily Short
+UK,2MCL.L,WisdomTree,FTSE 250 2x Daily Leveraged
+UK,WUKD.L,WisdomTree Issuer plc,UK Equity Income
+UK,XASX.L,Xtrackers,X MSCI UK ESG UCITS ETF (DR)
+World,PRIW.L,Amundi,Prime Global UCITS ETF DR (D)
+World,XDEX.L,db x-trackers,FTSE All-World EX UK UCITS ETF (DR)
+World,XWLD.L,db X-trackers,MSCI World Index UCITS ETF (DR) 1C
+World,XDEV.L,db X-trackers,MSCI World Value Factor UCITS ETF (DR)
+World,FGQP.L,Fidelity UCITS ICAV,Global Quality Income UCITS ETF ACC-GBP (hedged)
+World,FGQD.L,Fidelity UCITS ICAV,Global Quality Income UCITS GBP INC
+World,FGLR.L,FIL Fund Management (Ireland) Limited,Sustain Res ENHD GBL Equity UCITS ETF Acc
+World,FGBL.L,First Trust Global Funds plc,First Trust Global Equity Income UCITS ETF
+World,GINC.L,First Trust Global Funds PLC,Global Equity Inc UCITS B USD DIS
+World,FLXX.L,Franklin Templeton,LibertyQ Global Dividend UCITS ETF
+World,PBUY.L,HANetf ICAV,Global Online Retail UCITS ETF
+World,CLMP.L,HANetf ICAV,iClima Global Decarbonisation Enablers UCITS ETF
+World,HMWO.L,HSBC ETFs Plc,MSCI World ETF GBP
+World,HMWD.L,HSBC ETFS Plc,MSCI World ETF USD
+World,HWWA.L,HSBC ETFs plc,Multi Factor Worldwide Equity
+World,PSRW.L,Invesco Markets III Plc,FTSE Rafi All-World 3000 Fund
+World,BUYB.L,Invesco Markets III Plc,Global Buyback Achievers UCITS ETF
+World,EFIS.L,Invesco Markets plc,Goldman Sachs Equity Factor Ind World UCITS (GBP)
+World,EFIW.L,Invesco Markets plc,Goldman Sachs Equity Factor Ind World UCITS (USD)
+World,MXWS.L,Invesco Markets plc,MSCI World UCITS
+World,IFSW.L,iShares Edge IV plc,Edge MSCI World UCITS ETF USD Acc
+World,IWFQ.L,iShares Edge IV plc,MSCI World Quality Factor
+World,IWFS.L,iShares Edge IV plc,MSCI World Size Factor
+World,IWFV.L,iShares Edge IV plc,MSCI World Value Factor
+World,IWFM.L,iShares Edge IV plc,World Momentum Factor UCITS
+World,IGSG.L,iShares II plc,Dow Jones Global Sustainability Screened (GBP)
+World,ISWD.L,iShares II plc,MSCI World Islamic
+World,WQDS.L,iShares II plc,MSCI World Quality DIV UCITS USD(GB
+World,SWDA.L,iShares III plc,Core MSCI World (Acc)
+World,WLDS.L,IShares III Plc,MSCI World Small Cap UCITS USD(GBP)
+World,IWQU.L,iShares IV PLC,Edge MSCI World Quality Factor UCITS ETF USD (Acc)
+World,FSWD.L,iShares IV Plc,EDGE MSCI WORLD UCITS ETF(GBP)
+World,IWVG.L,iShares IV plc,Edge MSCI World Value Factor UCITS ETF (Dist)
+World,EEWG.L,iShares IV plc,MSCI World ESG Enhanced UCITS ETF USD Dis
+World,SAWD.L,iShares IV plc,MSCI World ESG Screened UCITS ETF USD Acc
+World,IWMO.L,iShares IV plc,MSCI World Momentum Factor UCITS ETF
+World,SUSW.L,iShares IV plc,MSCI World SRI UCITS ETF EUR (Acc)
+World,SUWS.L,iShares IV plc,MSCI WORLD SRI UCITS ETF USD D (SUWS)
+World,OPEN.L,Ishares Iv Plc,Thomson Reuters Inc & Div UCITS ETF
+World,IWVL.L,Ishares IV plc Edge MSCI World Value Factor ETF,Ishares IV plc Edge MSCI World Value Factor ETF
+World,IWRD.L,iShares plc,MSCI World UCITS ETF (Dist)
+World,IDWR.L,iShares Plc,MSCI World UCITS ETF (Dist) USD
+World,SSAC.L,iShares V plc,MSCI ACWI UCITS ETF USD Acc (GBP)
+World,IWDE.L,iShares V plc,MSCI World Monthly EUR UCITS ACC HDG
+World,IGWD.L,iShares V plc,MSCI World Monthly GBP Hedged (GBP)
+World,MVEW.L,iShares VI plc,Edge MSCI World Min Vol ESG UCITS ETF
+World,WMVG.L,iShares VI Plc,Edge MSCI World Min Vol UCITS ETF GBP Hdgd (Acc)
+World,MINV.L,iShares VI plc,Edge MSCI World Minimum Volatility GBP
+World,MVOL.L,iShares VI plc,MSCI Edge World Min Vol UCITS USD A
+World,JPTC.L,JPMorgan Funds ETFs (Ireland) ICAV,Carbon Transition Global Equity UCITS ETF
+World,JGRE.L,JPMorgan Funds ETFs (Ireland) ICAV,Global Research Enhanced Index Equity UCITS ETF
+World,LGGG.L,Legal & General,Global Equity UCITS ETF USD(GBP) ACC
+World,SGQP.L,Lyxor Asset Management Luxembourg,Lyxor SG Global Quality Income NTR UCITS ETF (GBP)
+World,ELLE.L,Lyxor Asset Management Luxembourg S.A.,Global Gender Eqlty (DR) UCITS ETF
+World,WLDL.L,Lyxor International Asset Management,MSCI World D EUR (GBP)
+World,SGVB.L,Lyxor International Asset Management,SG Global Value Beta UCITS ETF
+World,SGVL.L,Lyxor International Asset Management,SG Global Value Beta UCITS ETF GBP
+World,SGQL.L,Multi Units Luxembourg,SG Global Quality Income
+World,LCWL.L,Multi Units Luxumbourg,LYXOR CORE MSCI WRLD DR UCITS ETF G
+World,EMLP.L,PIMCO Fixed Income Source ETFs,EM Advantage Local Bond Index Source UCITC ETF
+World,SWLD.L,SSgA SPDR ETFS Europe,MSCI World UCITS ETF
+World,WOSC.L,SSGA SPDR ETFs Europe I plc,MSCI World Small Cap UCITS ETF
+World,GLDV.L,SSgA SPDR ETFs Europe I Plc,S&P GLOBAL DIV ARISTOCRATS UCITS US
+World,GBDV.L,SSGA SPDR ETFs Europe I plc,S&P Global Dividend Aristocrats UCITS ETF
+World,B3YLTY6.L,SSGA SPDR ETFs Europe I plc,SPDR MSCI ACWI IMI USD
+World,ACWI.L,SSGA SPDR ETFs Europe I plc,SPDR MSCI ACWI USD (GBP)
+World,WMAT.L,SSGA SPDR ETFs Europe II,MSCI World Materials UCITS ETF USD
+World,GENE.L,UBS (Irl) Fund Solutions plc,Global Gender Equality UCITS ETF A USD
+World,SRIW.L,UBS (Irl) Fund Solutions Plc,MSCI World Socially Responsible UCITS ETF A-dis
+World,EUSR.L,UBS ETF,MSCI EMU Socially Responsible UCITS (GBP)
+World,UC55.L,UBS ETF SICAV,MSCI World
+World,UC44.L,UBS ETF SICAV,MSCI World Socially Responsible
+World,GOGB.L,VanEck Vectors,Morningstar Global Wide Moat UCITS ETF
+World,TSGB.L,VanEck Vectors ETFs,Sustainable World Equal Weight UCITS ETF
+World,TGGB.L,VanEckVectors,Global Equal Weight UCITS ETF (GBP)
+World,V3AM.L,Vanguard Funds Plc,ESG Global All Cap UCITS ETF - Dist
+World,VHYL.L,Vanguard Funds plc,FTSE All World High Dividend Yield
+World,VWRP.L,Vanguard Funds plc,FTSE All-World UCITS ETF (USD) Accumulating
+World,VWRD.L,Vanguard Funds plc,FTSE All-World UCITS ETF (USD) Distributing
+World,VWRL.L,Vanguard Funds plc,FTSE All-World UCITS ETF (USD) Distributing - GBP
+World,VEVE.L,Vanguard Funds plc,FTSE Developed World UCITS
+World,GGRP.L,WisdomTree Issuer plc,Global Quality Div Growth UCITS ETF USD (GBP)
+World,XMWD.L,Xtrackers,MSCI World Index UCITS ETF
+World,XDEQ.L,Xtrackers,MSCI World Quality UCITS ETF 1C
+World,XGSD.L,Xtrackers,Stoxx Global Select Dividend 100 UCITS ETF
+World,XESW.L,Xtrackers (IE) plc,MSCI World ESG UCITS ETF 1C
+World,XDEM.L,Xtrackers (IE) plc,MSCI World Momentum UCITS ETF 1C
+World,XDWG.L,XTrackers (IE) Plc,MSCI WORLD UCITS 2D GBP
