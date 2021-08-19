@@ -1,184 +1,161 @@
-﻿Sector,ID,Title,Description
-Bank and Finances,CB5.L,Amundi Investment Solutions,MSCI Europe Banks UCITS ETF
-Bank and Finances,XDWF.L,db x-trackers,MSCI World Financials Index UCITS ETF (DR)
-Bank and Finances,3LBC.L,GraniteShares,3x Long Barclays Daily ETF
-Bank and Finances,3LLL.L,GraniteShares,3x Long Lloyds Banking Group Daily ETF
-Bank and Finances,3SBC.L,GraniteShares,3x Short Barclays Daily ETF
-Bank and Finances,X7PS.L,Invesco Markets,Invesco STOXX Europe 600 Optimised Banks UCITS ETF
-Bank and Finances,S7XP.L,Invesco Markets plc,Euro STOXX Optimised Banks ETF
-Bank and Finances,XLFS.L,Invesco Markets Plc,Financials S&P US Select Sector UCITS ETF
-Bank and Finances,UIFS.L,iShares V plc,S&P 500 Financials Sector UCITS ETF USD Acc
-Bank and Finances,BNKS.L,IShares V Plc,S&P US Banks UCITS ETF USD Acc
-Bank and Finances,FINW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Financials TR
-Bank and Finances,FNCL.L,SPDR Series Trust,MSCI Europe Financials ETF
-Bank and Finances,WFIN.L,SSGA SPDR ETFs Europe II plc,MSCI World Financials UCITS USD
-Bank and Finances,SXLF.L,SSGA SPDR ETFs Europe II plc,S&P US FINLS SEL SECT UCT USD
-Bank and Finances,3BAL.L,WisdomTree,EURO STOXX Banks 3x Daily Leveraged
-Bank and Finances,3BAS.L,WisdomTree,EURO STOXX Banks 3x Daily Short
-Bank and Finances,XS7R.L,Xtrackers,Stoxx Europe 600 Banks UCITS ETF
-Bank and Finances,XUFB.L,Xtrackers Plc,MSCI USA Banks UCITS ETF
-Basic Materials,SPGP.L,iShares V plc,S&P Commodity Producers Gold ETF USD Acc (GBP)
-Basic Materials,AUCO.L,Legal & General UCITS ETF,DaxGlobal Gold Mining Fund (USD)
-Basic Materials,AUCP.L,Legal & General UCITS ETF,Gold Mining ETF
-Basic Materials,BCOG.L,LGIM ETF Managers Ltd,All Commodities UCITS ETF (GBP)
-Basic Materials,CRBL.L,Lyxor,Com Thre Core Com Crb TR UCITS ETF
-Basic Materials,CRNL.L,Lyxor,Com Thre Core Com CRB Tr UCITS ETF
-Basic Materials,GOLB.L,Market Access,NYSE Arca Gold BUGS Index UCITS ETF
-Basic Materials,MATW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Materials TR
-Basic Materials,MTRL.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Materials UCITS(EUR)
-Basic Materials,SMGB.L,VanEck Investments Ltd,TM Semiconductor UCITS ETF
-Basic Materials,GIGB.L,VanEck Vectors,Global Mining UCITS ETF A GBP
-Basic Materials,GDIG.L,VanEck Vectors,Global Mining UCITS ETF A USD
-Basic Materials,GDGB.L,VanEck Vectors,Gold Miners UCITS ETF GBP
-Basic Materials,GJGB.L,VanEck Vectors,Junior Gold Miners UCITS ETF (GBP)
-Basic Materials,BYZ2H96.L,VanEck Vectors,Natural Resources UCITS ETF A USD
-Basic Materials,GDX.L,VanEck Vectors ETF,Gold Miners UCITS
-Basic Materials,GDXJ.L,VanEck Vectors ETF,Junior Gold Miners UCITS
-Basic Materials,LEED.L,WisdomTree,Lead
-Basic Materials,XSPR.L,Xtrackers,Stoxx Europe 600 Basic Resources UCITS ETF
-Basic Materials,XDWM.L,Xtrackers (IE),Xtrackers (IE) MSCI World Materials UCITS ETF 1C
-Consumer Goods,XDWC.L,db x-trackers,MSCI World Consumer Discretionary Index UCITS (DR)
-Consumer Goods,XDWS.L,db x-trackers,MSCI World Consumer Staples Index UCITS ETF (DR)
-Consumer Goods,XLPP.L,Invesco Markets plc,Consumer Staples S&P US Sel Sec Source UCITS ETF
-Consumer Goods,XLPS.L,Invesco Markets Plc,Consumer Staples S&P US Sel Sec Source UCITS ETF
-Consumer Goods,MLPS.L,Invesco Markets plc,Morningstar US Energy Infrastructure MLP UCITS ETF
-Consumer Goods,ICSU.L,iShares V plc,S&P 500 Consumer Staples Sector UCITS ETF (GBP)
-Consumer Goods,IUCS.L,IShares V Plc,S&P 500 Consumer Staples Sector UCITS ETF USD ACC
-Consumer Goods,IUMS.L,iShares V plc,S&P 500 MATERIALS SECTOR UCITS ETF USD
-Consumer Goods,IUCD.L,ISHARES V PLC,S&P500 Consumer Discr Sec UCITS ETF USD
-Consumer Goods,STAW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Consumer Discretionary TR
-Consumer Goods,DISW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Consumer Staples TR
-Consumer Goods,FOGB.L,Rize ETF ICAV,Sustainable Future Of Food UCITS ETF GBP
-Consumer Goods,WCOS.L,SSGA SPDR ETFS EUROPE II PLC,MSCI World Consumer Staples UCITS USD
-Consumer Goods,SXLP.L,SSGA SPDR ETFS Europe II plc,S&P US Consumer Staples Sel Sector
-Consumer Goods,ESGB.L,VanEck Investments Ltd,Vectors Gaming Esports UCITS ETF USD
-Consumer Goods,ESPO.L,VanEck Investments Ltd,Video Gaming Esports UCITS ETF USD -Class A
-Consumer Goods,XS3R.L,Xtrackers,Stoxx Europe 600 Food & Beverage UCITS ETF
-Energy,ANRJ.L,Amundi Investment Solutions,MSCI Europe Energy UCITS ETF
-Energy,XDW0.L,db X-trackers,MSCI World Energy Index UCITS ETF (DR)
-Energy,XSER.L,db X-trackers,Stoxx Europe 600 Oil & Gas UCITS ETF
-Energy,PMLP.L,HANetf ICAV,Alerian Midstream Energy Div UCITS ETF
-Energy,GCLX.L,Invesco Markets II plc,Global Clean Energy UCITS ETF Accumulation
-Energy,XLES.L,Invesco Markets plc,Energy S&P US Sel Sector UCITS ETF
-Energy,XLEP.L,Invesco Markets plc,Energy S&P US Select Sector UCITS ETF
-Energy,INRG.L,iShares II plc,Global Clean Energy UCITS ETF (Dist)
-Energy,IESU.L,iShares V plc,S&P 500 Energy Sector UCITS GBP ACC
-Energy,IUES.L,iShares V plc,S&P 500 ENERGY SECTOR UCITS USD ACC
-Energy,SPOG.L,iShares V plc,S&P Commodity Producers Oil & Gas UCITS ETF USD Ac
-Energy,RENG.L,Legal & General UCITS ETF plc,Clean Energy UCITS ETF GBP
-Energy,NRGW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Energy TR
-Energy,SXLE.L,SPDR,S&P U.S. Energy Select Sector UCITS ETF (Acc)
-Energy,ENGY.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Energy 35/20 Cap UCITS ETF
-Energy,WNRG.L,SSGA SPDR ETFs Europe II plc,MSCI World Energy UCITS USD
-Energy,HDGB.L,VanEck Investments Ltd,VanEck Vectors Hydrogen Economy UCITS ETF Acc
-Energy,CHRG.L,WisdomTree Issuer plc,Battery Solutions UCITS ETF USD Acc (GBP)
-Health,CH5.L,Amundi Investment Solutions,Msci Europe Healthcare UCITS ETF
-Health,XDWH.L,db x-trackers,MSCI World Health Care Index UTCITS ETF (DR)
-Health,WELP.L,HANetf ICAV,Indxx Healthcare Innovation UCITS ETF Acc
-Health,CBDP.L,HANetf ICAV,The Medical Cannabis and Wellness UCITS ETF GBP
-Health,XLVP.L,Invesco Markets Plc,Health Care S&P US Select Sector UCITS ETF GBP
-Health,XLVS.L,Invesco Markets Plc,Healthcare S&P US Sel Sector UCITS ETF
-Health,SBIO.L,Invesco Markets plc,NASDAQ Biotech UCITS ETF
-Health,AGES.L,iShares IV plc,Ageing Population UCITS ETF USD (GBP)
-Health,DRDR.L,iShares IV plc,Healthcare Innovation UCITS ETF USD
-Health,IHCU.L,iShares V Plc,S&P 500 Health Care Sector UCITS ETF GBP
-Health,IUHC.L,iShares V plc,S&P 500 Health Care Sector UCITS ETF USD Acc
-Health,ESIH.L,iShares VI plc,MSCI EUR HealthCare Sect UCITS ETF Acc
-Health,DOCG.L,L&G,Healthcare Breakthrough UCITS ETF GBP
-Health,BIGT.L,Legal & General UCITS ETF,ETFS Pharma Breakthrough USD ACC GB
-Health,DOCT.L,LGIM ETF Managers Ltd,Healthcare Breakthrough UCITS ETF
-Health,EDOC.L,Mirae Asset ETF,Global X Telemedicine & Digital Health UCITS ETF
-Health,HLTW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Health Care TR
-Health,FLWG.L,Rize ICAV,Medical Cannabis & Life Sciences UCITS ETF GBP
-Health,HLTH.L,SSgA SPDR ETFs Europe II plc,SSgA SPDR MSCI Europe Health Care UCITS ETF
-Health,XSDR.L,Xtrackers,Stoxx Europe 600 Health Care UCITS ETF
-Health,XSHC.L,Xtrackers (IE) plc,MSCI USA Health Care UCITS ETF 1D
-Industrials,XDWI.L,db x-trackers,MSCI World Industrials Index UCITS ETF (DR)
-Industrials,3LBA.L,GraniteShares,3x Long BAE Systems Daily ETF
-Industrials,XLYS.L,Invesco Markets plc,Consumer Disc S&P US Sel Sector Source UCITS ETF
-Industrials,XLYP.L,Invesco Markets Plc,Consumer Discretionary S&P US Select Sector UCITS
-Industrials,XLIS.L,Invesco Markets plc,Industrials S&P US Sel Sector ETF
-Industrials,XLIP.L,Invesco Markets plc,Industrials S&P US Select Sector UCITS ETF
-Industrials,INFR.L,iShares II plc,FTSE/Macquarie Global Infrastructure 100
-Industrials,IDIN.L,iShares II plc,iShares FTSE/Macqrie Global Infrastructure 100
-Industrials,IEMI.L,iShares II plc,S&P Emerging Market Infrastructure USD
-Industrials,WOOD.L,iShares II plc,S&P Global Timber & Forestry (USD)
-Industrials,SPAG.L,iShares V plc,S&P Commodity Producers Agribusiness USD Acc (GBP)
-Industrials,ROBG.L,Legal & General UCITS ETF,ROBO Global Robotics & Automation
-Industrials,MLPX.L,Legal & General UCITS ETF,US Energy Infrastructure MLP UCITS ETF
-Industrials,RIOL.L,Lyxor,MSCI Brazil UCITS ETF GBP Acc
-Industrials,INDW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Industrials TR
-Industrials,GIN.L,SSGA SPDR ETFs Europe II plc,Morningstar Multi-Asset Global Infrastructure
-Industrials,SXLI.L,SSGA SPDR ETFs Europe II plc,S&P US INDLS SEL SECT UCT USD
-Industrials,XSGI.L,Xtrackers,S&P Global Infrastructure UCITS ETF
-Industrials,XSNR.L,Xtrackers,Stoxx Europe 600 Industrial Goods UCITS ETF
-"Large, Mid, Small and Micro Cap",PRUK.L,Amundi Luxembourg SA,Prime UK Mid Small Cap UCITS ETF GBP
-Oil and Gas,HTWG.L,Legal & General ETF,Hydrogen Economy UCITS ETF USD (GBP)
-Property,EPRA.L,Amundi,Index FTSE pra Nareit Global UCITS ETF DR
-Property,EPRE.L,Amundi ETF,ETF FTSE EPRA Europe Real Estate UCITS ETF
-Property,DPYG.L,BlackRock Asset Management,iShares Dev Mkts Ppty Yield ETF Hdg (GBP)
-Property,IUSP.L,BlackRock Asset Management Ireland Limited,iShares US Property Yield UCITS ETF USD (Dist)
-Property,HPRO.L,HSBC ETFS plc,FTSE EPRA/NAREIT Developed
-Property,IASP.L,iShares II plc,FTSE EPRA/NAREIT Asia Property Yield Fund
-Property,IWDP.L,iShares II plc,FTSE EPRA/NAREIT Developed Markets Property Yield
-Property,IUKP.L,iShares II plc,FTSE EPRA/NAREIT UK Property Fund
-Property,IWDG.L,iShares III plc,Core MSCI World UCITS ETF GBP DIS H
-Property,UKRE.L,iShares III plc,MSCI Target UK Real Estate UCITS ETF
-Property,IPRP.L,iShares plc,FTSE/EPRA European Property Index Fund
-Property,GBRE.L,SPDR ETFs Europe I plc,Dow Jones Global Real Estate
-Property,EURE.L,SSGA SPDR ETFs Europe I plc,FTSE EPRA Europe ex UK Real Estate UCITS ETF
-Technology,XDWT.L,db X-trackers,MSCI World Information Tech Index UCITS ETF (DR)
-Technology,FSKY.L,First Trust Global Funds plc,Cloud Computing UCITS ETF Class A - Accumulation
-Technology,FDN.L,First Trust Global Funds PLC,Dow Jones Internet UCITS ETF
-Technology,SKYP.L,HANetf ICAV,Cloud Technology UCITS ETF Acc
-Technology,SKYY.L,HANetf ICAV,Cloud Technology UCITS ETF USD ACC
-Technology,PIGI.L,HANetf ICAV,Digital Infrastructure And Connectivity UCITS ETF
-Technology,EMQP.L,HANetf ICAV,Emqq Em Mkts Internet & Ecommerce UCITS ETF (GBP)
-Technology,EMQQ.L,HANetf ICAV,Emqq Em Mkts Internet&Ecommerc Ucits ETF
-Technology,ITEP.L,HANetf ICAV,Han-Gins Tech Megatrend Eql Wt UCITS ETF (GBP)
-Technology,ITEK.L,HANetf ICAV,Innovative Tech UCITS ETF USD ACC
-Technology,BCHS.L,Invesco Markets II Plc,Invesco Elwood Global Blockchain UCITS ETF (Acc)
-Technology,FTEK.L,Invesco Markets plc,KBW NASDAQ Fintech UCITS A USD
-Technology,XLKS.L,Invesco Markets Plc,Technology S&P US Sel Sector UCITS ETF
-Technology,XLKQ.L,Invesco Markets Plc,Technology S&P US Select Sector UCITS ETF GBP
-Technology,RBOT.L,iShares IV plc,Automation & Robotics UCITS ETF USD
-Technology,RBTX.L,iShares IV plc,Automation & Robotics UCITS ETF USD
-Technology,RBOD.L,iShares IV plc,Automation & Robotics UCITS ETF USD (Dist)
-Technology,SHLD.L,iShares IV plc,Digital Security UCITS ETF - USD (Dist)
-Technology,LOCK.L,Ishares Iv Plc,Digital Security UCITS ETF USD ACC
-Technology,DGIT.L,iShares IV plc,Digitalisation UCITS ETF USD (GBP)
-Technology,DGTL.L,IShares Iv Plc,Digitalisation UCITS ETF USD ACC
-Technology,ECAR.L,Ishares Iv Plc,Electric Vehicles and Driving Technology UCITS ETF
-Technology,IITU.L,iShares V plc,S&P 500 Information Technology Sector ETF USD Acc
-Technology,AIAG.L,Legal & General,Artificial Intelligence UCITS ETF (GBP)
-Technology,USPY.L,Legal & General,Cyber Security UCITS ETF ACC (USD)
-Technology,ISPY.L,Legal & General UCITS ETF,Cyber Security UCITS(GBP)
-Technology,AIAI.L,Legal & General UCITS ETF Plc,Artificial Intelligence UCITS ETF USD
-Technology,HERU.L,Mirae Asset Etf Icav,Global X Video Game & Esport USD Acc
-Technology,TNOW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Information Technology TR
-Technology,LRNG.L,Rize ETF ICAV,Education Tech & Digital Learning UCITS ETF
-Technology,CYBP.L,Rize ICAV,Cyber Security & Data Privacy UCITS ETF GBP
-Technology,SXLK.L,SSGA SPDR ETFs Europe II plc,S&P US Tech Sel Sect UCT USD
-Technology,ITEC.L,SSGA SPDR ETFS Europe Plc,MSCI Europe Technology UCITS ETF (EUR)
-Technology,WTEC.L,State Street Global Advisors Ltd,SPDR MSCI World Technology UCITS ETF (USD)
-Technology,WCLD.L,WisdomTree,Cloud Computing UCITS ETF - USD Accumulation
-Technology,KLWD.L,WisdomTree Issuer ICAV,Cloud Computing UCITS ETF - USD Acc (GBP)
-Technology,CYSE.L,WisdomTree Issuer ICAV,Cybersecurity UCITS ETF- USD (GBP) Acc
-Technology,INTL.L,WisdomTree Issuer plc,Artificial Intelligence UCITS ETF - GBP Acc
-Technology,XS8R.L,Xtrackers,STOXX Europe 600 Technology
-Technology,XSTC.L,Xtrackers (IE),MSCI USA Information Technology UCITS ETF 1D
-Telecoms,XWTS.L,db x-trackers,MSCI World Communication Services Index (DR)
-Telecoms,IUCM.L,Ishares V Plc,S&P 500 COMUNICTION SCTR UCIT ETF US
-Telecoms,TELW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Telecommunication Services TR
-Telecoms,WTEL.L,SSGA SPDR ETFs Europe II plc,MSCI World Commuunications UCITS USD
-Telecoms,XSKR.L,Xtrackers,Stoxx Europe 600 Telecommunications UCITS ETF
-Utilities,XDWU.L,db x-trackers,MSCI World Utilities Index UCITS ETF (DR)
-Utilities,XLUS.L,Invesco Markets Plc,Utilities S&P US Sel Sector UCITS ETF
-Utilities,XLUP.L,Invesco Markets Plc,Utilities S&P US Select Sector UCITS ETF GBP
-Utilities,IH2O.L,iShares II plc,Global Water UCITS ETF
-Utilities,IUSU.L,iShares V plc,S&P 500 Utilities Sector UCITS ETF - Acc
-Utilities,GLGG.L,L&G,Clean Water UCITS ETF
-Utilities,WATL.L,Lyxor International Asset Management,World Water
-Utilities,UTIW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Utilities TR
-Utilities,UTIL.L,SPDR SERIES TRUST,MSCI Europe Utilities ETF
-Utilities,XS6R.L,Xtrackers,Stoxx Europe 600 Utilities UCITS ETF
+﻿Sector,ID,Title,Description,Detailed Description,URL,Average Annual Charge
+Health,AGES.L,iShares IV plc,Ageing Population UCITS ETF USD (GBP),Seeks to track the performance of an index composed of developed and emerging market companies which are generating significant revenues from the growing needs of the world’s ageing population (defined as people aged 60 years and above),https://www.ishares.com/uk/individual/en/products/284218/ishares-ageing-population-ucits-etf-usd-acc-fund,1.00%
+Energy,PMLP.L,HANetf ICAV,Alerian Midstream Energy Div UCITS ETF,"Seeks to provide diversified exposure to energy  companies involved in the processing, transportation and storage of oil, natural gas and natural gas liquids in the US and Canadian markets and includes MLPs and C-corps",https://www.hanetf.com/product/9/fund/the-alerian-midstream-energy-dividend-ucits-etf,1.69%
+Basic Materials,BCOG.L,LGIM ETF Managers Ltd,All Commodities UCITS ETF (GBP),,,
+Technology,INTL.L,WisdomTree Issuer plc,Artificial Intelligence UCITS ETF - GBP Acc,,,
+Technology,AIAG.L,Legal & General,Artificial Intelligence UCITS ETF (GBP),,,
+Technology,AIAI.L,Legal & General UCITS ETF Plc,Artificial Intelligence UCITS ETF USD,,,
+Technology,RBOT.L,iShares IV plc,Automation & Robotics UCITS ETF USD,,,
+Technology,RBTX.L,iShares IV plc,Automation & Robotics UCITS ETF USD,,,
+Technology,RBOD.L,iShares IV plc,Automation & Robotics UCITS ETF USD (Dist),,,
+Energy,CHRG.L,WisdomTree Issuer plc,Battery Solutions UCITS ETF USD Acc (GBP),,,
+Utilities,GLGG.L,L&G,Clean Water UCITS ETF,,,
+Technology,KLWD.L,WisdomTree Issuer ICAV,Cloud Computing UCITS ETF - USD Acc (GBP),,,
+Technology,WCLD.L,WisdomTree,Cloud Computing UCITS ETF - USD Accumulation,,,
+Technology,FSKY.L,First Trust Global Funds plc,Cloud Computing UCITS ETF Class A - Accumulation,,,
+Technology,SKYP.L,HANetf ICAV,Cloud Technology UCITS ETF Acc,,,
+Technology,SKYY.L,HANetf ICAV,Cloud Technology UCITS ETF USD ACC,,,
+Industrials,XLYS.L,Invesco Markets plc,Consumer Disc S&P US Sel Sector Source UCITS ETF,,,
+Industrials,XLYP.L,Invesco Markets Plc,Consumer Discretionary S&P US Select Sector UCITS,,,
+Consumer Goods,XLPP.L,Invesco Markets plc,Consumer Staples S&P US Sel Sec Source UCITS ETF,,,
+Consumer Goods,XLPS.L,Invesco Markets Plc,Consumer Staples S&P US Sel Sec Source UCITS ETF,,,
+Property,IWDG.L,iShares III plc,Core MSCI World UCITS ETF GBP DIS H,,,
+Technology,CYBP.L,Rize ICAV,Cyber Security & Data Privacy UCITS ETF GBP,,,
+Technology,USPY.L,Legal & General,Cyber Security UCITS ETF ACC (USD),,,
+Technology,ISPY.L,Legal & General UCITS ETF,Cyber Security UCITS(GBP),,,
+Basic Materials,AUCO.L,Legal & General UCITS ETF,DaxGlobal Gold Mining Fund (USD),,,
+Technology,PIGI.L,HANetf ICAV,Digital Infrastructure And Connectivity UCITS ETF,,,
+Technology,SHLD.L,iShares IV plc,Digital Security UCITS ETF - USD (Dist),,,
+Technology,LOCK.L,Ishares Iv Plc,Digital Security UCITS ETF USD ACC,,,
+Technology,DGIT.L,iShares IV plc,Digitalisation UCITS ETF USD (GBP),,,
+Technology,DGTL.L,IShares Iv Plc,Digitalisation UCITS ETF USD ACC,,,
+Property,GBRE.L,SPDR ETFs Europe I plc,Dow Jones Global Real Estate,,,
+Technology,FDN.L,First Trust Global Funds PLC,Dow Jones Internet UCITS ETF,,,
+Technology,LRNG.L,Rize ETF ICAV,Education Tech & Digital Learning UCITS ETF,,,
+Technology,ECAR.L,Ishares Iv Plc,Electric Vehicles and Driving Technology UCITS ETF,,,
+Technology,EMQP.L,HANetf ICAV,Emqq Em Mkts Internet & Ecommerce UCITS ETF (GBP),,,
+Technology,EMQQ.L,HANetf ICAV,Emqq Em Mkts Internet&Ecommerc Ucits ETF,,,
+Energy,XLES.L,Invesco Markets plc,Energy S&P US Sel Sector UCITS ETF,,,
+Energy,XLEP.L,Invesco Markets plc,Energy S&P US Select Sector UCITS ETF,,,
+Property,EPRE.L,Amundi ETF,ETF FTSE EPRA Europe Real Estate UCITS ETF,,,
+Health,BIGT.L,Legal & General UCITS ETF,ETFS Pharma Breakthrough USD ACC GB,,,
+Bank and Finances,S7XP.L,Invesco Markets plc,Euro STOXX Optimised Banks ETF,Highly liquid Eurozone companies of the STOXX Europe 600 Banks index.,https://www.stoxx.com/index-details?symbol=SXO7E,
+Property,HPRO.L,HSBC ETFS plc,FTSE EPRA/NAREIT Developed,,,
+Property,IUKP.L,iShares II plc,FTSE EPRA/NAREIT UK Property Fund,,,
+Property,IPRP.L,iShares plc,FTSE/EPRA European Property Index Fund,,,
+Basic Materials,GIGB.L,VanEck Vectors,Global Mining UCITS ETF A GBP,,,
+Basic Materials,GDIG.L,VanEck Vectors,Global Mining UCITS ETF A USD,,,
+Utilities,IH2O.L,iShares II plc,Global Water UCITS ETF,,,
+Health,EDOC.L,Mirae Asset ETF,Global X Telemedicine & Digital Health UCITS ETF,,,
+Technology,HERU.L,Mirae Asset Etf Icav,Global X Video Game & Esport USD Acc,,,
+Basic Materials,GDX.L,VanEck Vectors ETF,Gold Miners UCITS,,,
+Basic Materials,GDGB.L,VanEck Vectors,Gold Miners UCITS ETF GBP,,,
+Basic Materials,AUCP.L,Legal & General UCITS ETF,Gold Mining ETF,,,
+Technology,ITEP.L,HANetf ICAV,Han-Gins Tech Megatrend Eql Wt UCITS ETF (GBP),,,
+Health,XLVP.L,Invesco Markets Plc,Health Care S&P US Select Sector UCITS ETF GBP,,,
+Health,DOCT.L,LGIM ETF Managers Ltd,Healthcare Breakthrough UCITS ETF,,,
+Health,DOCG.L,L&G,Healthcare Breakthrough UCITS ETF GBP,,,
+Health,DRDR.L,iShares IV plc,Healthcare Innovation UCITS ETF USD,,,
+Health,XLVS.L,Invesco Markets Plc,Healthcare S&P US Sel Sector UCITS ETF,,,
+Property,EPRA.L,Amundi,Index FTSE pra Nareit Global UCITS ETF DR,,,
+Industrials,XLIS.L,Invesco Markets plc,Industrials S&P US Sel Sector ETF,,,
+Industrials,XLIP.L,Invesco Markets plc,Industrials S&P US Select Sector UCITS ETF,,,
+Health,WELP.L,HANetf ICAV,Indxx Healthcare Innovation UCITS ETF Acc,,,
+Technology,ITEK.L,HANetf ICAV,Innovative Tech UCITS ETF USD ACC,,,
+Technology,BCHS.L,Invesco Markets II Plc,Invesco Elwood Global Blockchain UCITS ETF (Acc),,,
+Property,DPYG.L,BlackRock Asset Management,iShares Dev Mkts Ppty Yield ETF Hdg (GBP),,,
+Industrials,IDIN.L,iShares II plc,iShares FTSE/Macqrie Global Infrastructure 100,,,
+Property,IUSP.L,BlackRock Asset Management Ireland Limited,iShares US Property Yield UCITS ETF USD (Dist),,,
+Basic Materials,GDXJ.L,VanEck Vectors ETF,Junior Gold Miners UCITS,,,
+Basic Materials,GJGB.L,VanEck Vectors,Junior Gold Miners UCITS ETF (GBP),,,
+Technology,FTEK.L,Invesco Markets plc,KBW NASDAQ Fintech UCITS A USD,,,
+Basic Materials,LEED.L,WisdomTree,Lead,,,
+Consumer Goods,STAW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Consumer Discretionary TR,,,
+Consumer Goods,DISW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Consumer Staples TR,,,
+Energy,NRGW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Energy TR,,,
+Health,HLTW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Health Care TR,,,
+Industrials,INDW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Industrials TR,,,
+Technology,TNOW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Information Technology TR,,,
+Basic Materials,MATW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Materials TR,,,
+Telecoms,TELW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Telecommunication Services TR,,,
+Utilities,UTIW.L,Multi Units Luxembourg,Lyxor ETF MSCI World Utilities TR,,,
+Health,FLWG.L,Rize ICAV,Medical Cannabis & Life Sciences UCITS ETF GBP,,,
+Industrials,GIN.L,SSGA SPDR ETFs Europe II plc,Morningstar Multi-Asset Global Infrastructure,,,
+Consumer Goods,MLPS.L,Invesco Markets plc,Morningstar US Energy Infrastructure MLP UCITS ETF,,,
+Industrials,RIOL.L,Lyxor,MSCI Brazil UCITS ETF GBP Acc,Large and mid cap segments of the Brazilian market.,https://www.msci.com/documents/10199/efef068e-d252-4e75-8142-2c8b8f441759,0.54%
+Health,ESIH.L,iShares VI plc,MSCI EUR HealthCare Sect UCITS ETF Acc,Large and mid cap stocks in healthcare companies across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/66498fbf-749e-4de6-a5ef-36ac0ad46ec6,0.66%
+Bank and Finances,CB5.L,Amundi Investment Solutions,MSCI Europe Banks UCITS ETF,Large and mid cap stocks in banks across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/e72ea9be-ae79-4bb5-8ce0-054d4f371549,0.79%
+Energy,ENGY.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Energy 35/20 Cap UCITS ETF,Large and mid cap stocks in energy companies across 15 Developed Markets countries in Europe. The weight of the largest issuer in the index is constrained to 35% and the weights of all other entities are constrained to a maximum of 20%.,https://www.msci.com/documents/10199/a0cc40d9-c673-44b2-89bd-06bd1f40e702,1.17%
+Energy,ANRJ.L,Amundi Investment Solutions,MSCI Europe Energy UCITS ETF,Large and mid cap stocks in energy companies across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/43f0da3c-a77f-45f7-9037-5a7a60184db5,0.79%
+Bank and Finances,FNCL.L,SPDR Series Trust,MSCI Europe Financials ETF,Large and mid cap stocks in financial institutions across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/8826a446-bba3-448c-919b-d8a795f133bf,1.16%
+Health,CH5.L,Amundi Investment Solutions,Msci Europe Healthcare UCITS ETF,Large and mid cap stocks in healthcare companies across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/66498fbf-749e-4de6-a5ef-36ac0ad46ec6,0.79%
+Basic Materials,MTRL.L,SSGA SPDR ETFs Europe II plc,MSCI Europe Materials UCITS(EUR),Large and mid cap stocks in materials companies across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/465de330-90aa-40ba-bac1-9712996771ae,1.21%
+Technology,ITEC.L,SSGA SPDR ETFS Europe Plc,MSCI Europe Technology UCITS ETF (EUR),Large and mid cap stocks in information technology companies across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/73a82be8-c7f6-45a3-a713-f35b7162cd0a,1.16%
+Utilities,UTIL.L,SPDR SERIES TRUST,MSCI Europe Utilities ETF,Large and mid cap stocks in utility companies across 15 Developed Markets countries in Europe.,https://www.msci.com/documents/10199/e5626e0e-a3e2-40da-9b6a-c31906726b3f,0.79%
+Property,UKRE.L,iShares III plc,MSCI Target UK Real Estate UCITS ETF,"Track the performance of an index composed of UK Real Estate Investment Trusts (REITs), property companies and liquid fixed income secuities.",https://www.ishares.com/uk/individual/en/products/272400/ishares-msci-target-uk-real-estate-fund,1.05%
+Bank and Finances,XUFB.L,Xtrackers Plc,MSCI USA Banks UCITS ETF,Large and mid cap stocks in banks in America.,https://etf.dws.com/en-gb/IE00BDVPTJ63-msci-usa-banks-ucits-etf-1d/,0.66%
+Health,XSHC.L,Xtrackers (IE) plc,MSCI USA Health Care UCITS ETF 1D,Large and mid cap stocks in healthcare companies in America.,https://www.msci.com/documents/10199/76fd66d2-363b-4573-af89-94748418c15b,0.66%
+Technology,XSTC.L,Xtrackers (IE),MSCI USA Information Technology UCITS ETF 1D,Large and mid cap stocks in information technologycompanies in America.,https://www.msci.com/documents/10199/5b6344f1-be32-47d1-b05b-8145dfca925b,0.66%
+Telecoms,XWTS.L,db x-trackers,MSCI World Communication Services Index (DR),Large and mid cap stocks in communication services across 23 Developed Markets countries.,https://www.msci.com/documents/10199/a4ec7b1f-b538-4e2e-8305-80bf110b4084,0.80%
+Telecoms,WTEL.L,SSGA SPDR ETFs Europe II plc,MSCI World Communications UCITS USD,Large and mid cap stocks in communication services across 23 Developed Markets countries.,https://www.msci.com/documents/10199/a4ec7b1f-b538-4e2e-8305-80bf110b4084,1.15%
+Consumer Goods,XDWC.L,db x-trackers,MSCI World Consumer Discretionary Index UCITS (DR),Large and mid cap stocks in consumer discretionary across 23 Developed Markets countries.,https://www.msci.com/documents/10199/e8096ca8-6a16-4be0-861c-971f21c2a4c6,0.80%
+Consumer Goods,XDWS.L,db x-trackers,MSCI World Consumer Staples Index UCITS ETF (DR),Large and mid cap stocks in communication services across 23 Developed Markets countries.,https://www.msci.com/documents/10199/04d4c23a-f633-4bf6-b20d-735e9fb13538,0.79%
+Consumer Goods,WCOS.L,SSGA SPDR ETFS EUROPE II PLC,MSCI World Consumer Staples UCITS USD,Large and mid cap stocks in consumer staples across 23 Developed Markets countries.,https://www.msci.com/documents/10199/04d4c23a-f633-4bf6-b20d-735e9fb13538,1.15%
+Energy,XDW0.L,db X-trackers,MSCI World Energy Index UCITS ETF (DR),Large and mid cap stocks in energy across 23 Developed Markets countries.,https://www.msci.com/documents/10199/de6dfd90-3fcd-42f0-aaf9-4b3565462b5a,0.80%
+Energy,WNRG.L,SSGA SPDR ETFs Europe II plc,MSCI World Energy UCITS USD,Large and mid cap stocks in energy across 23 Developed Markets countries.,https://www.msci.com/documents/10199/de6dfd90-3fcd-42f0-aaf9-4b3565462b5a,1.15%
+Bank and Finances,XDWF.L,db x-trackers,MSCI World Financials Index UCITS ETF (DR),Large and mid cap stocks in financial institutions across 23 Developed Markets countries.,https://www.msci.com/documents/10199/1b3a3205-7804-40b1-9471-6b75081b4efe,0.80%
+Bank and Finances,WFIN.L,SSGA SPDR ETFs Europe II plc,MSCI World Financials UCITS USD,Large and mid cap stocks in financial institutions across 23 Developed Markets countries.,https://www.msci.com/documents/10199/8826a446-bba3-448c-919b-d8a795f133bf,1.10%
+Health,XDWH.L,db x-trackers,MSCI World Health Care Index UTCITS ETF (DR),Large and mid cap stocks in healthcare companies across 23 Developed Markets countries.,https://www.msci.com/documents/10199/c41a73d1-9037-4dbd-a175-703d3bb77ae6,0.79%
+Industrials,XDWI.L,db x-trackers,MSCI World Industrials Index UCITS ETF (DR),Large and mid cap stocks in industrials companies across 23 Developed Markets countries.,https://www.msci.com/documents/10199/54b1293a-00fc-4bb9-8308-d03484f0c3db,0.79%
+Technology,XDWT.L,db X-trackers,MSCI World Information Tech Index UCITS ETF (DR),Large and mid cap stocks in information technology companies across 23 Developed Markets countries.,https://www.msci.com/documents/10199/69aaf9fd-d91d-4505-a877-4b1ad70ee855,0.79%
+Utilities,XDWU.L,db x-trackers,MSCI World Utilities Index UCITS ETF (DR),Large and mid cap stocks in utilities companies across 23 Developed Markets countries.,"https://www.msci.com/documents/10199/970cc931-4db6-4b8c-801a-1a48f51b070f#:~:text=The%20MSCI%20World%20Utilities%20Index,Classification%20Standard%20(GICS%C2%AE).",0.79%
+Health,SBIO.L,Invesco Markets plc,NASDAQ Biotech UCITS ETF,,,
+Basic Materials,GOLB.L,Market Access,NYSE Arca Gold BUGS Index UCITS ETF,,,
+"Large, Mid, Small and Micro Cap",PRUK.L,Amundi Luxembourg SA,Prime UK Mid Small Cap UCITS ETF GBP,,,
+Industrials,ROBG.L,Legal & General UCITS ETF,ROBO Global Robotics & Automation,,,
+Telecoms,IUCM.L,Ishares V Plc,S&P 500 COMUNICTION SCTR UCIT ETF US,,,
+Consumer Goods,ICSU.L,iShares V plc,S&P 500 Consumer Staples Sector UCITS ETF (GBP),,,
+Consumer Goods,IUCS.L,IShares V Plc,S&P 500 Consumer Staples Sector UCITS ETF USD ACC,,,
+Energy,IESU.L,iShares V plc,S&P 500 Energy Sector UCITS GBP ACC,,,
+Energy,IUES.L,iShares V plc,S&P 500 ENERGY SECTOR UCITS USD ACC,,,
+Bank and Finances,UIFS.L,iShares V plc,S&P 500 Financials Sector UCITS ETF USD Acc,Tracks the performance of the S&P 500 index Financial Sector companies.,https://www.ishares.com/uk/individual/en/products/280523/ishares-sp-500-financials-sector-ucits-etf?switchLocale=y&siteEntryPassthrough=true,
+Health,IHCU.L,iShares V Plc,S&P 500 Health Care Sector UCITS ETF GBP,,,
+Health,IUHC.L,iShares V plc,S&P 500 Health Care Sector UCITS ETF USD Acc,,,
+Technology,IITU.L,iShares V plc,S&P 500 Information Technology Sector ETF USD Acc,,,
+Consumer Goods,IUMS.L,iShares V plc,S&P 500 MATERIALS SECTOR UCITS ETF USD,,,
+Utilities,IUSU.L,iShares V plc,S&P 500 Utilities Sector UCITS ETF - Acc,,,
+Industrials,SPAG.L,iShares V plc,S&P Commodity Producers Agribusiness USD Acc (GBP),,,
+Basic Materials,SPGP.L,iShares V plc,S&P Commodity Producers Gold ETF USD Acc (GBP),,,
+Energy,SPOG.L,iShares V plc,S&P Commodity Producers Oil & Gas UCITS ETF USD Ac,,,
+Industrials,IEMI.L,iShares II plc,S&P Emerging Market Infrastructure USD,,,
+Industrials,XSGI.L,Xtrackers,S&P Global Infrastructure UCITS ETF,,,
+Industrials,WOOD.L,iShares II plc,S&P Global Timber & Forestry (USD),,,
+Energy,SXLE.L,SPDR,S&P U.S. Energy Select Sector UCITS ETF (Acc),,,
+Bank and Finances,BNKS.L,IShares V Plc,S&P US Banks UCITS ETF USD Acc,Tracks the performance of the S&P index Financial Sector companies.,https://www.ishares.com/uk/individual/en/products/297140/ishares-s-p-u-s-banks-ucits-etf-usd-acc-fund,
+Consumer Goods,SXLP.L,SSGA SPDR ETFS Europe II plc,S&P US Consumer Staples Sel Sector,,,
+Bank and Finances,SXLF.L,SSGA SPDR ETFs Europe II plc,S&P US FINLS SEL SECT UCT USD,,,
+Industrials,SXLI.L,SSGA SPDR ETFs Europe II plc,S&P US INDLS SEL SECT UCT USD,,,
+Technology,SXLK.L,SSGA SPDR ETFs Europe II plc,S&P US Tech Sel Sect UCT USD,,,
+Consumer Goods,IUCD.L,ISHARES V PLC,S&P500 Consumer Discr Sec UCITS ETF USD,,,
+Technology,WTEC.L,State Street Global Advisors Ltd,SPDR MSCI World Technology UCITS ETF (USD),,,
+Health,HLTH.L,SSgA SPDR ETFs Europe II plc,SSgA SPDR MSCI Europe Health Care UCITS ETF,,,
+Bank and Finances,XS7R.L,Xtrackers,Stoxx Europe 600 Banks UCITS ETF,,,
+Basic Materials,XSPR.L,Xtrackers,Stoxx Europe 600 Basic Resources UCITS ETF,,,
+Consumer Goods,XS3R.L,Xtrackers,Stoxx Europe 600 Food & Beverage UCITS ETF,,,
+Health,XSDR.L,Xtrackers,Stoxx Europe 600 Health Care UCITS ETF,,,
+Industrials,XSNR.L,Xtrackers,Stoxx Europe 600 Industrial Goods UCITS ETF,,,
+Energy,XSER.L,db X-trackers,Stoxx Europe 600 Oil & Gas UCITS ETF,,,
+Technology,XS8R.L,Xtrackers,STOXX Europe 600 Technology,,,
+Telecoms,XSKR.L,Xtrackers,Stoxx Europe 600 Telecommunications UCITS ETF,,,
+Utilities,XS6R.L,Xtrackers,Stoxx Europe 600 Utilities UCITS ETF,,,
+Consumer Goods,FOGB.L,Rize ETF ICAV,Sustainable Future Of Food UCITS ETF GBP,,,
+Technology,XLKS.L,Invesco Markets Plc,Technology S&P US Sel Sector UCITS ETF,,,
+Technology,XLKQ.L,Invesco Markets Plc,Technology S&P US Select Sector UCITS ETF GBP,,,
+Health,CBDP.L,HANetf ICAV,The Medical Cannabis and Wellness UCITS ETF GBP,,,
+Industrials,MLPX.L,Legal & General UCITS ETF,US Energy Infrastructure MLP UCITS ETF,,,
+Utilities,XLUS.L,Invesco Markets Plc,Utilities S&P US Sel Sector UCITS ETF,,,
+Utilities,XLUP.L,Invesco Markets Plc,Utilities S&P US Select Sector UCITS ETF GBP,,,
+Consumer Goods,ESGB.L,VanEck Investments Ltd,Vectors Gaming Esports UCITS ETF USD,,,
+Consumer Goods,ESPO.L,VanEck Investments Ltd,Video Gaming Esports UCITS ETF USD -Class A,,,
+Utilities,WATL.L,Lyxor International Asset Management,World Water,,,
+Basic Materials,XDWM.L,Xtrackers (IE),Xtrackers (IE) MSCI World Materials UCITS ETF 1C,,,

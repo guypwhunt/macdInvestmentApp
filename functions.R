@@ -46,6 +46,17 @@ plotMacd <- function(macd, symbol = "") {
   fig
 }
 
+plotPrice <- function(timeSeries, symbol = ""){
+  fig <- plot_ly(timeSeries, x = ~Date, y = ~Adjusted,
+                 name = "Price",
+                 type = "scatter",
+                 mode = "line"
+  )
+  fig <- fig %>% layout(title = paste(symbol, "Price Analysis"))
+
+  fig
+}
+
 symbolText <- function() {
   symbols <- HTML("<b>Asia Pacific Ex Japan</b>
   <p>Fidelity Index Pacific ex Japan (Class P): 0P00011UPP.L</p>
@@ -112,4 +123,27 @@ industryEtfs <- function() {
 geographicalEtfs <- function() {
   dF <- read.csv("geographicalEtfs.csv")
   return(dF)
+}
+
+symbolsWithNegativeMonthlyMacd <- function(){
+  df <- read.csv("indexFund.csv")
+  #df1 <- read.csv("industryEtfs.csv")
+  #df2 <- read.csv("geographicalEtfs.csv")
+
+  finalDf <- df
+    #rbind(rbind(df["ID"], df1["ID"]), df2["ID"])
+
+  symbols <- c()
+
+  for(i in 1:nrow(finalDf)) {
+    try({
+      symbol <- finalDf["ID"][i, ]
+      timeSeries <- getTimeSeries(symbol, "yahoo", "daily")
+      timeSeries <- formatTimeSeries(timeSeries)
+      macd <- calculateMacd(timeSeries)
+      if(tail(macd["signal"],1)<0){
+        append(symbols, c(symbol))
+      }})
+  }
+  return(symbols)
 }

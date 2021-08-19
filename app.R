@@ -21,10 +21,8 @@ ui <- fluidPage(
         textInput("symbol", "Stock Symbol", "^FTSE"),
         selectInput("source", "Data Source", c("yahoo")),
         selectInput("time", "Time Period", c("daily", "weekly", "monthly")),
-        actionButton("analyseButton", "Analyse"),
-        br(),
-        br(),
-        plotlyOutput('macdPlot')
+        actionButton("analyseButton", "Analyse")
+
     ),
 
         # Show a plot of the generated distribution
@@ -32,8 +30,9 @@ ui <- fluidPage(
             tabsetPanel(type = "tabs",
                         tabPanel("Index Funds",br(), tableOutput('indexFunds')),
                         tabPanel("Industry ETFs",br(), tableOutput('industryEtf')),
-                        tabPanel("Geographical ETFs",br(), tableOutput('geographicalEtf'))#,
-                        #tabPanel("MACD Analysis",br(), br(), plotlyOutput('macdPlot'))#,
+                        tabPanel("Geographical ETFs",br(), tableOutput('geographicalEtf')),
+                        tabPanel("MACD Analysis",br(), br(), plotlyOutput('macdPlot')),
+                        tabPanel("Price Analysis",br(), br(), plotlyOutput('pricePlot'))
                         )
         )
     )
@@ -43,8 +42,9 @@ server <- function(input, output) {
     observeEvent(input$analyseButton, {
         timeSeries <- getTimeSeries(input$symbol, input$source, input$time)
         timeSeries <- formatTimeSeries(timeSeries)
-        macd <- calculateMacd(timeSeries)
-        output$macdPlot <- renderPlotly({ plotMacd(macd, input$symbol)})
+        try({macd <- calculateMacd(timeSeries)
+        output$macdPlot <- renderPlotly({ plotMacd(macd, input$symbol)})})
+        output$pricePlot <- renderPlotly({plotPrice(timeSeries, input$symbol)})
     })
 
     output$symbolText <- renderUI({
